@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+for count in {1..10}
+do
+	java Benchmark 20 >> file20.txt
+  	sleep 1s
+done
+
