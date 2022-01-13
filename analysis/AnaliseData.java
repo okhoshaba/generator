@@ -1,11 +1,13 @@
 import java.io.BufferedReader;  
 import java.io.FileReader;  
 import java.io.IOException;  
+import java.lang.Math;
 
 public class AnaliseData
 {  
   public static void main(String[] args) {  
     int cycle, countPeriod, amplitude;
+    double srt, ptr, mrt;
     String line = "";  
     String splitBy = ";";  
 
@@ -17,9 +19,13 @@ public class AnaliseData
         try {
           cycle = Integer.parseInt(data[2]);
           countPeriod = Integer.parseInt(data[4]);
-          amplitude = Integer.parseInt(data[4]);
+          amplitude = Integer.parseInt(data[6]);
+          srt = Double.parseDouble(data[8]);
+          srt /= 1000000000;
+          ptr = 0.1/amplitude;
+          mrt = 10 * Math.log10(srt/ptr);
 
-          System.out.printf("%d;%d;%d%n", cycle, countPeriod, amplitude);
+          System.out.printf("%d;%d;%d;%.3f;%.3f;%.2f;%n", cycle, countPeriod, amplitude, srt, ptr, mrt);
         }
         catch (NumberFormatException ex) {
           ex.printStackTrace();
