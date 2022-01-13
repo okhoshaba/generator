@@ -21,6 +21,7 @@ public class AnaliseData
           countPeriod = Integer.parseInt(data[4]);
           amplitude = Integer.parseInt(data[6]);
           srt = Double.parseDouble(data[8]);
+          srt /= amplitude;
           srt /= 1000000000;
           ptr = 0.1/amplitude;
           mrt = 10 * Math.log10(srt/ptr);

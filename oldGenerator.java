@@ -57,7 +57,7 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         srt += processDuration;
       }
 //      mrt = 10.0 * Math.log10((double)srt/(double)Config.periodOfTime);
-      System.out.println("lev1;cycle;" + cycle + ";countPeriod;" + countPeriod + ";amplitude;" + countAmplitude + ";srt;" + srt);
+      System.out.println(" lev1 ; cycle ; " + cycle + " ; countPeriod ; " + countPeriod + " ; amplitude ; " + countAmplitude + " ; srt ; " + srt);
 //      }
 
     } // end try

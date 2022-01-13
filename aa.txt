@@ -1,3 +1,7 @@
+ Number of tacts (im units) = 10
+ Signal_Sampling_Rate (im Hz) = 10
+ Period Time (im ms) = 100
+ Command Line ping -c1 192.168.1.1 > /dev/null 2>&1
 lev1;cycle;0;countPeriod;0;amplitude;30;srt;127425047
 lev1;cycle;1;countPeriod;0;amplitude;30;srt;74599071
 lev1;cycle;0;countPeriod;1;amplitude;42;srt;100460500
