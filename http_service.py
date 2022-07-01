@@ -1,0 +1,25 @@
+from http.server import BaseHTTPRequestHandler, HTTPServer
+import time
+
+#hostName = "localhost"
+hostName = "192.168.1.108"
+hostPort = 9000
+
+class MyServer(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-type", "text/html".encode())
+        self.end_headers()
+        self.wfile.write("Test World !".encode())
+
+myServer = HTTPServer((hostName, hostPort), MyServer)
+print(time.asctime(), "Server Starts - %s:%s" % (hostName, hostPort))
+
+try:
+    myServer.serve_forever()
+except KeyboardInterrupt:
+    pass
+
+myServer.server_close()
+print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
+
