@@ -35,8 +35,8 @@ public TestBenchmark(int cycle){
 }
 
 public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
-      double procTime, loadImpact;
-      long start, stop, processDuration;
+      double procTime, loadImpact, processDuration;
+      long start, stop;
 	    Runtime runtime;
       Process process;
 //      long srt;
@@ -53,7 +53,7 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         stop = System.nanoTime();
         processDuration = stop - start;
         procTime = (double)(100000000 / countAmplitude);
-        loadImpact = (double)(procTime / processDuration); 
+        loadImpact = procTime / processDuration; 
       // for diagnostic only
         System.out.println("cycle ; " + cycle + " ; cPeriod ; " + countPeriod + " ; count ; " + countObject + " ; procDur ; " + processDuration + "; procTime ; " + procTime + "; lI ; " + loadImpact + "; spb ; " + Math.log10(loadImpact)*10);
       }
