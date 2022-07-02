@@ -74,6 +74,7 @@ public void run() {
     try   {     // Displaying the thread that is running
       for (int countPeriod = 0; countPeriod < Config.trajectoryMassive; countPeriod++) {
         execAmplitude(cycle, countPeriod, Config.amplitude[countPeriod]);
+        System.out.println("SumProcTime , " + Config.sumProcessingTime + " SumDurationTime , " + Config.sumDurationTime + " , sizeOfPerfBottl , " + Config.sizeOfPerformanceBottl);
       }
     } // end try
       catch (Exception e)   {     // Throwing an exception
@@ -125,9 +126,8 @@ class Generator {
           Thread object = new Thread(new TestBenchmark(countCycles));
             object.start();
             Thread.sleep(Config.periodOfTime);
-        } // end for
+          } // end for
 
-      System.out.println("SumProcTime , " + Config.sumProcessingTime + " SumDurationTime , " + Config.sumDurationTime + " , sizeOfPerfBottl , " + Config.sizeOfPerformanceBottl);
       }
 }
 
