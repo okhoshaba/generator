@@ -14,7 +14,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.Properties;
-//import java.lang.Math;
+import java.lang.Math;
 
 class Config {
 	static int executionOrder = 0;
@@ -24,7 +24,7 @@ class Config {
   static int trajectoryMassive = 0;
 	static int signalOfSamplingRate = 0;
 	static String commandLine;
-  static int [] amplitude = new int [13];
+  static int [] amplitude;
 }
 
 class TestBenchmark implements Runnable {
@@ -55,12 +55,8 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         procTime = (double)(100000000 / countAmplitude);
         loadImpact = (double)(procTime / processDuration); 
       // for diagnostic only
-        System.out.println("lev0 ; cycle ; " + cycle + " ; countPeriod ; " + countPeriod + " ; count ; " + countObject + " ; processDuration ; " + processDuration + "; procTime ; " + procTime + "; loadImpact ; " + loadImpact);
-//        srt += processDuration;
+        System.out.println("cycle ; " + cycle + " ; cPeriod ; " + countPeriod + " ; count ; " + countObject + " ; procDur ; " + processDuration + "; procTime ; " + procTime + "; lI ; " + loadImpact + "; spb ; " + Math.log10(loadImpact)*10);
       }
-//      mrt = 10.0 * Math.log10((double)srt/(double)Config.periodOfTime);
-//      System.out.println("lev1;cycle;" + cycle + ";countPeriod;" + countPeriod + ";amplitude;" + countAmplitude + ";srt;" + srt + ";PT;" + 100/countAmplitude);
-//      }
 
     } // end try
       catch (Exception e)   {     // Throwing an exception
@@ -70,7 +66,7 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
 
 public void run() {
     try   {     // Displaying the thread that is running
-      for (int countPeriod = 0; countPeriod < 13; countPeriod++) {
+      for (int countPeriod = 0; countPeriod < Config.trajectoryMassive; countPeriod++) {
         execAmplitude(cycle, countPeriod, Config.amplitude[countPeriod]);
       }
 
@@ -84,7 +80,6 @@ public void run() {
 class Generator2 {
     public static void main(String[] args)  throws InterruptedException, FileNotFoundException {
 	    int count = 0;
-//      long mainStart, mainStop, mainProcessDuration;
 
         try (InputStream input = Generator2.class.getClassLoader().getResourceAsStream("trajectory.properties")) {
             Properties prop = new Properties();
@@ -103,17 +98,17 @@ class Generator2 {
             Config.commandLine = prop.getProperty("trajectory.commandLine");
             Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
 
-
         } catch (IOException ex) {
             ex.printStackTrace();
         }
 
         System.out.println(" Number of tacts (im units) = " + Config.numberOfTacts);
-        System.out.println(" Number of tacts (im units) = " + Config.trajectoryMassive);
+        System.out.println(" Number of massive (im units) = " + Config.trajectoryMassive);
         System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
         System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
         System.out.println(" Command Line " + Config.commandLine);
 
+        Config.amplitude = new int [Config.trajectoryMassive];
         File text = new File("dots.txt");
         Scanner scanner = new Scanner(text);
         while(scanner.hasNextInt()) 
