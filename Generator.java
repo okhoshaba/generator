@@ -23,6 +23,9 @@ class Config {
   static int countAmplitude = 0;
   static int trajectoryMassive = 0;
 	static int signalOfSamplingRate = 0;
+  static double sumProcessingTime = 0.0;
+  static double sumDurationTime = 0.0;
+  static double sizeOfPerformanceBottl = 0.0;
 	static String commandLine;
   static int [] amplitude;
 }
@@ -53,9 +56,12 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         stop = System.nanoTime();
         processDuration = stop - start;
         procTime = (double)(100000000 / countAmplitude);
-        loadImpact = procTime / processDuration; 
+        Config.sumProcessingTime += procTime;
+        Config.sumDurationTime += processDuration;
+        loadImpact = procTime / processDuration;
+        Config.sizeOfPerformanceBottl += Math.log10(loadImpact) * 10; 
       // for diagnostic only
-        System.out.println("cycle ; " + cycle + " ; cPeriod ; " + countPeriod + " ; count ; " + countObject + " ; procDur ; " + processDuration + "; procTime ; " + procTime + "; lI ; " + loadImpact + "; spb ; " + Math.log10(loadImpact)*10);
+        System.out.println("cycle , " + cycle + " , cPeriod , " + countPeriod + " , count , " + countObject + " , procDur , " + processDuration + ", procTime , " + procTime + ", lI , " + loadImpact + ", spb , " + Math.log10(loadImpact)*10);
       }
 
     } // end try
@@ -69,7 +75,6 @@ public void run() {
       for (int countPeriod = 0; countPeriod < Config.trajectoryMassive; countPeriod++) {
         execAmplitude(cycle, countPeriod, Config.amplitude[countPeriod]);
       }
-
     } // end try
       catch (Exception e)   {     // Throwing an exception
         System.out.println ("Exception is caught");
@@ -77,11 +82,11 @@ public void run() {
     } //end run
 } 
 
-class Generator2 {
+class Generator {
     public static void main(String[] args)  throws InterruptedException, FileNotFoundException {
 	    int count = 0;
 
-        try (InputStream input = Generator2.class.getClassLoader().getResourceAsStream("trajectory.properties")) {
+        try (InputStream input = Generator.class.getClassLoader().getResourceAsStream("trajectory.properties")) {
             Properties prop = new Properties();
 
             if (input == null) {
@@ -112,10 +117,7 @@ class Generator2 {
         File text = new File("dots.txt");
         Scanner scanner = new Scanner(text);
         while(scanner.hasNextInt()) 
-//      {
           Config.amplitude[count++] = scanner.nextInt();
-//          System.out.println(" Dot " + count + " " + Config.amplitude[count-1]);
-//        }
         scanner.close();
 
         for (int countCycles = 0; countCycles < Config.numberOfTacts; countCycles++) {
@@ -124,6 +126,8 @@ class Generator2 {
             object.start();
             Thread.sleep(Config.periodOfTime);
         } // end for
-    }
+
+      System.out.println("SumProcTime , " + Config.sumProcessingTime + " SumDurationTime , " + Config.sumDurationTime + " , sizeOfPerfBottl , " + Config.sizeOfPerformanceBottl);
+      }
 }
 
