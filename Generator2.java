@@ -21,10 +21,10 @@ class Config {
 	static int numberOfTacts = 0;
 	static int periodOfTime = 0;
   static int countAmplitude = 0;
+  static int trajectoryMassive = 0;
 	static int signalOfSamplingRate = 0;
 	static String commandLine;
   static int [] amplitude = new int [13];
-
 }
 
 class TestBenchmark implements Runnable {
@@ -98,6 +98,7 @@ class Generator2 {
             prop.load(input);
 
             Config.numberOfTacts = Integer.valueOf(prop.getProperty("trajectory.numberOfTacts"));
+            Config.trajectoryMassive = Integer.valueOf(prop.getProperty("trajectory.trajectoryMassive"));
             Config.signalOfSamplingRate = Integer.valueOf(prop.getProperty("trajectory.signalOfSamplingRate"));
             Config.commandLine = prop.getProperty("trajectory.commandLine");
             Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
@@ -108,6 +109,7 @@ class Generator2 {
         }
 
         System.out.println(" Number of tacts (im units) = " + Config.numberOfTacts);
+        System.out.println(" Number of tacts (im units) = " + Config.trajectoryMassive);
         System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
         System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
         System.out.println(" Command Line " + Config.commandLine);
