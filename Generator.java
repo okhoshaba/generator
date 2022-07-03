@@ -19,7 +19,6 @@ import java.lang.Math;
 class Config {
 	static int executionOrder = 0;
 	static int numberOfTacts = 0;
-	static int periodOfTime = 0;
   static int countAmplitude = 0;
   static int trajectoryMassive = 0;
 	static int signalOfSamplingRate = 0;
@@ -59,9 +58,9 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         Config.sumProcessingTime += procTime;
         Config.sumDurationTime += processDuration;
         loadImpact = procTime / processDuration;
-        Config.sizeOfPerformanceBottl += Math.log10(loadImpact) * 10; 
+        Config.sizeOfPerformanceBottl += Math.log10(loadImpact); 
       // for diagnostic only
-        System.out.println("cycle , " + cycle + " , cPeriod , " + countPeriod + " , count , " + countObject + " , procDur , " + processDuration + ", procTime , " + procTime + ", lI , " + loadImpact + ", spb , " + Math.log10(loadImpact)*10);
+        System.out.println("cycle , " + cycle + " , cPeriod , " + countPeriod + " , count , " + countObject + " , procDur , " + processDuration + ", procTime , " + procTime + ", lI , " + loadImpact + ", spb , " + Math.log10(loadImpact));
       }
 
     } // end try
@@ -74,7 +73,6 @@ public void run() {
     try   {     // Displaying the thread that is running
       for (int countPeriod = 0; countPeriod < Config.trajectoryMassive; countPeriod++) {
         execAmplitude(cycle, countPeriod, Config.amplitude[countPeriod]);
-        System.out.println("SumProcTime , " + Config.sumProcessingTime + " SumDurationTime , " + Config.sumDurationTime + " , sizeOfPerfBottl , " + Config.sizeOfPerformanceBottl);
       }
     } // end try
       catch (Exception e)   {     // Throwing an exception
@@ -100,9 +98,8 @@ class Generator {
 
             Config.numberOfTacts = Integer.valueOf(prop.getProperty("trajectory.numberOfTacts"));
             Config.trajectoryMassive = Integer.valueOf(prop.getProperty("trajectory.trajectoryMassive"));
-            Config.signalOfSamplingRate = Integer.valueOf(prop.getProperty("trajectory.signalOfSamplingRate"));
             Config.commandLine = prop.getProperty("trajectory.commandLine");
-            Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
+//            Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
 
         } catch (IOException ex) {
             ex.printStackTrace();
@@ -110,8 +107,8 @@ class Generator {
 
         System.out.println(" Number of tacts (im units) = " + Config.numberOfTacts);
         System.out.println(" Number of massive (im units) = " + Config.trajectoryMassive);
-        System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
-        System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
+//        System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
+//        System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
         System.out.println(" Command Line " + Config.commandLine);
 
         Config.amplitude = new int [Config.trajectoryMassive];
@@ -125,7 +122,7 @@ class Generator {
           Config.executionOrder = countCycles;
           Thread object = new Thread(new TestBenchmark(countCycles));
             object.start();
-            Thread.sleep(Config.periodOfTime);
+            Thread.sleep(100);
           } // end for
 
       }
