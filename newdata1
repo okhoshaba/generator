@@ -1,655 +1,655 @@
-cycle , 0 , cPeriod , 0 , count , 0 , procDur , 2.3006373E7, procTime , 1.0E7, lI , 0.43466216947799635, spb , -0.36184815668494363
-cycle , 0 , cPeriod , 0 , count , 1 , procDur , 8130923.0, procTime , 1.0E7, lI , 1.2298726725120874, spb , 0.08986015169325957
-cycle , 0 , cPeriod , 0 , count , 2 , procDur , 6590132.0, procTime , 1.0E7, lI , 1.5174202883948302, spb , 0.1811058864230644
-cycle , 0 , cPeriod , 0 , count , 3 , procDur , 8422629.0, procTime , 1.0E7, lI , 1.1872777490258684, spb , 0.07455232869244802
-cycle , 1 , cPeriod , 0 , count , 0 , procDur , 7537662.0, procTime , 1.0E7, lI , 1.3266713206296594, spb , 0.12276334086174015
-cycle , 0 , cPeriod , 0 , count , 4 , procDur , 7596561.0, procTime , 1.0E7, lI , 1.3163851379591371, spb , 0.119382970447942
-cycle , 1 , cPeriod , 0 , count , 1 , procDur , 8273810.0, procTime , 1.0E7, lI , 1.208633023963567, spb , 0.08229445647640263
-cycle , 0 , cPeriod , 0 , count , 5 , procDur , 8719395.0, procTime , 1.0E7, lI , 1.146868561408217, spb , 0.05951364778266253
-cycle , 1 , cPeriod , 0 , count , 2 , procDur , 8545753.0, procTime , 1.0E7, lI , 1.1701718970815094, spb , 0.06824966385760667
-cycle , 0 , cPeriod , 0 , count , 6 , procDur , 8688224.0, procTime , 1.0E7, lI , 1.1509832159023525, spb , 0.06106899062011406
-cycle , 1 , cPeriod , 0 , count , 3 , procDur , 8754686.0, procTime , 1.0E7, lI , 1.1422454214805648, spb , 0.05775942592694497
-cycle , 0 , cPeriod , 0 , count , 7 , procDur , 8877826.0, procTime , 1.0E7, lI , 1.1264018916342808, spb , 0.05169337113543057
-cycle , 1 , cPeriod , 0 , count , 4 , procDur , 8785274.0, procTime , 1.0E7, lI , 1.1382684250940835, spb , 0.05624468894018823
-cycle , 0 , cPeriod , 0 , count , 8 , procDur , 9579576.0, procTime , 1.0E7, lI , 1.0438875374024905, spb , 0.0186537127309943
-cycle , 1 , cPeriod , 0 , count , 5 , procDur , 8902545.0, procTime , 1.0E7, lI , 1.1232742996525151, spb , 0.05048582240492553
-cycle , 0 , cPeriod , 0 , count , 9 , procDur , 1.0408582E7, procTime , 1.0E7, lI , 0.9607456616088531, spb , -0.017391567981063023
-cycle , 1 , cPeriod , 0 , count , 6 , procDur , 1.0022045E7, procTime , 1.0E7, lI , 0.9978003491303422, spb , -9.563484371713021E-4
-cycle , 0 , cPeriod , 1 , count , 0 , procDur , 9192114.0, procTime , 7692307.0, lI , 0.8368376414826884, spb , -0.07735879319888923
-cycle , 1 , cPeriod , 0 , count , 7 , procDur , 8737633.0, procTime , 1.0E7, lI , 1.1444747107139885, spb , 0.05860620057656435
-cycle , 0 , cPeriod , 1 , count , 1 , procDur , 8392137.0, procTime , 7692307.0, lI , 0.9166088446840179, spb , -0.037815956409440174
-cycle , 1 , cPeriod , 0 , count , 8 , procDur , 9010122.0, procTime , 1.0E7, lI , 1.109862885319422, spb , 0.04526932849173829
-cycle , 0 , cPeriod , 1 , count , 2 , procDur , 9324012.0, procTime , 7692307.0, lI , 0.8249996889750892, spb , -0.08354621517907848
-cycle , 1 , cPeriod , 0 , count , 9 , procDur , 9016990.0, procTime , 1.0E7, lI , 1.1090175324581706, spb , 0.04493841196489544
-cycle , 0 , cPeriod , 1 , count , 3 , procDur , 8815491.0, procTime , 7692307.0, lI , 0.872589740038303, spb , -0.05918989777934476
-cycle , 1 , cPeriod , 1 , count , 0 , procDur , 1.011174E7, procTime , 7692307.0, lI , 0.760730299631913, spb , -0.11876928559737793
-cycle , 0 , cPeriod , 1 , count , 4 , procDur , 1.0719045E7, procTime , 7692307.0, lI , 0.7176298821396869, spb , -0.14409948554621793
-cycle , 2 , cPeriod , 0 , count , 0 , procDur , 8840687.0, procTime , 1.0E7, lI , 1.1311338134694735, spb , 0.053513985132159624
-cycle , 1 , cPeriod , 1 , count , 1 , procDur , 9735388.0, procTime , 7692307.0, lI , 0.7901387186622659, spb , -0.10229665622741592
-cycle , 2 , cPeriod , 0 , count , 1 , procDur , 8357582.0, procTime , 1.0E7, lI , 1.1965183231226448, spb , 0.07791935365578728
-cycle , 0 , cPeriod , 1 , count , 5 , procDur , 8686060.0, procTime , 7692307.0, lI , 0.885592201757759, spb , -0.05276621637107369
-cycle , 1 , cPeriod , 1 , count , 2 , procDur , 8121029.0, procTime , 7692307.0, lI , 0.9472084141061434, spb , -0.023554452741470097
-cycle , 2 , cPeriod , 0 , count , 2 , procDur , 8917479.0, procTime , 1.0E7, lI , 1.1213931650413755, spb , 0.049757904719617774
-cycle , 0 , cPeriod , 1 , count , 6 , procDur , 8882677.0, procTime , 7692307.0, lI , 0.8659897235934617, spb , -0.06248726157749591
-cycle , 1 , cPeriod , 1 , count , 3 , procDur , 8811903.0, procTime , 7692307.0, lI , 0.8729450380922259, spb , -0.059013099255117205
-cycle , 2 , cPeriod , 0 , count , 3 , procDur , 8535987.0, procTime , 1.0E7, lI , 1.1715106876334278, spb , 0.06874625499789816
-cycle , 0 , cPeriod , 1 , count , 7 , procDur , 8385482.0, procTime , 7692307.0, lI , 0.9173362962319876, spb , -0.03747142242894535
-cycle , 1 , cPeriod , 1 , count , 4 , procDur , 8953248.0, procTime , 7692307.0, lI , 0.8591638475779962, spb , -0.0659240057689527
-cycle , 2 , cPeriod , 0 , count , 4 , procDur , 9741767.0, procTime , 1.0E7, lI , 1.0265078193719888, spb , 0.01136226193571204
-cycle , 0 , cPeriod , 1 , count , 8 , procDur , 9747749.0, procTime , 7692307.0, lI , 0.7891367535212489, spb , -0.1028477291692213
-cycle , 1 , cPeriod , 1 , count , 5 , procDur , 9895692.0, procTime , 7692307.0, lI , 0.777338967300114, spb , -0.10938956095882173
-cycle , 0 , cPeriod , 1 , count , 9 , procDur , 8007853.0, procTime , 7692307.0, lI , 0.9605954305105251, spb , -0.017459483602515865
-cycle , 2 , cPeriod , 0 , count , 5 , procDur , 8447452.0, procTime , 1.0E7, lI , 1.1837889105495953, spb , 0.07327426728841466
-cycle , 1 , cPeriod , 1 , count , 6 , procDur , 8365350.0, procTime , 7692307.0, lI , 0.9195439521358939, spb , -0.03642750762884719
-cycle , 2 , cPeriod , 0 , count , 6 , procDur , 8041810.0, procTime , 1.0E7, lI , 1.2435011521038175, spb , 0.09464619197997871
-cycle , 0 , cPeriod , 1 , count , 10 , procDur , 8438163.0, procTime , 7692307.0, lI , 0.9116091974046958, spb , -0.04019130178701406
-cycle , 1 , cPeriod , 1 , count , 7 , procDur , 7688748.0, procTime , 7692307.0, lI , 1.0004628842042944, spb , 2.0098154368200293E-4
-cycle , 0 , cPeriod , 1 , count , 11 , procDur , 7984087.0, procTime , 7692307.0, lI , 0.9634548070430595, spb , -0.016168652064198045
-cycle , 2 , cPeriod , 0 , count , 7 , procDur , 9075255.0, procTime , 1.0E7, lI , 1.1018974122490222, spb , 0.04214116314727777
-cycle , 1 , cPeriod , 1 , count , 8 , procDur , 9359781.0, procTime , 7692307.0, lI , 0.8218469000503323, spb , -0.08520907863526926
-cycle , 0 , cPeriod , 1 , count , 12 , procDur , 8635981.0, procTime , 7692307.0, lI , 0.8907276428699877, spb , -0.05025506956639276
-cycle , 2 , cPeriod , 0 , count , 8 , procDur , 8216008.0, procTime , 1.0E7, lI , 1.217136107949262, spb , 0.08533914653417601
-cycle , 1 , cPeriod , 1 , count , 9 , procDur , 8896102.0, procTime , 7692307.0, lI , 0.8646828689689035, spb , -0.06314314514832048
-cycle , 0 , cPeriod , 2 , count , 0 , procDur , 8337677.0, procTime , 7142857.0, lI , 0.8566962956228695, spb , -0.0671731109957623
-cycle , 2 , cPeriod , 0 , count , 9 , procDur , 9699376.0, procTime , 1.0E7, lI , 1.030994158799494, spb , 0.01325620475167009
-cycle , 1 , cPeriod , 1 , count , 10 , procDur , 8530306.0, procTime , 7692307.0, lI , 0.9017621407719723, spb , -0.04490800189589876
-cycle , 0 , cPeriod , 2 , count , 1 , procDur , 7775506.0, procTime , 7142857.0, lI , 0.918635648921112, spb , -0.03685670519578073
-cycle , 2 , cPeriod , 1 , count , 0 , procDur , 7824400.0, procTime , 7692307.0, lI , 0.9831178109503604, spb , -0.007394435799711271
-cycle , 1 , cPeriod , 1 , count , 11 , procDur , 1.0244827E7, procTime , 7692307.0, lI , 0.7508479157334721, spb , -0.12444802044780955
-cycle , 0 , cPeriod , 2 , count , 2 , procDur , 8513766.0, procTime , 7142857.0, lI , 0.8389773691219609, spb , -0.07624975382923789
-cycle , 2 , cPeriod , 1 , count , 1 , procDur , 9253183.0, procTime , 7692307.0, lI , 0.8313146946299452, spb , -0.08023454267831155
-cycle , 3 , cPeriod , 0 , count , 0 , procDur , 9595572.0, procTime , 1.0E7, lI , 1.0421473571351452, spb , 0.01792913150283516
-cycle , 1 , cPeriod , 1 , count , 12 , procDur , 8957331.0, procTime , 7692307.0, lI , 0.8587722168579011, spb , -0.06612201437608128
-cycle , 0 , cPeriod , 2 , count , 3 , procDur , 8641919.0, procTime , 7142857.0, lI , 0.826535981186586, spb , -0.08273823575175596
-cycle , 2 , cPeriod , 1 , count , 2 , procDur , 1.008841E7, procTime , 7692307.0, lI , 0.762489530064698, spb , -0.11776611534687575
-cycle , 3 , cPeriod , 0 , count , 1 , procDur , 1.1014261E7, procTime , 1.0E7, lI , 0.9079138400660743, spb , -0.041955363548637076
-cycle , 1 , cPeriod , 2 , count , 0 , procDur , 9222445.0, procTime , 7142857.0, lI , 0.7745079531512522, spb , -0.11097411826375711
-cycle , 0 , cPeriod , 2 , count , 4 , procDur , 9180762.0, procTime , 7142857.0, lI , 0.778024416709637, spb , -0.10900677334981403
-cycle , 2 , cPeriod , 1 , count , 3 , procDur , 8587445.0, procTime , 7692307.0, lI , 0.8957620107028342, spb , -0.04780735994444259
-cycle , 3 , cPeriod , 0 , count , 2 , procDur , 9419024.0, procTime , 1.0E7, lI , 1.0616811253480192, spb , 0.025994096503765298
-cycle , 1 , cPeriod , 2 , count , 1 , procDur , 9119332.0, procTime , 7142857.0, lI , 0.7832653751393194, spb , -0.10609107136151044
-cycle , 0 , cPeriod , 2 , count , 5 , procDur , 1.0301272E7, procTime , 7142857.0, lI , 0.6933956311414746, spb , -0.15901889901813832
-cycle , 2 , cPeriod , 1 , count , 4 , procDur , 9328187.0, procTime , 7692307.0, lI , 0.8246304453373415, spb , -0.08374063509623968
-cycle , 3 , cPeriod , 0 , count , 3 , procDur , 9170535.0, procTime , 1.0E7, lI , 1.090448921464233, spb , 0.037605327277610026
-cycle , 1 , cPeriod , 2 , count , 2 , procDur , 8077582.0, procTime , 7142857.0, lI , 0.8842815832757872, spb , -0.05340941983954213
-cycle , 0 , cPeriod , 2 , count , 6 , procDur , 1.0451555E7, procTime , 7142857.0, lI , 0.6834252893468963, spb , -0.1653089546847559
-cycle , 2 , cPeriod , 1 , count , 5 , procDur , 9164800.0, procTime , 7692307.0, lI , 0.8393316820879888, spb , -0.07606638334906583
-cycle , 3 , cPeriod , 0 , count , 4 , procDur , 1.0144949E7, procTime , 1.0E7, lI , 0.985712200228902, spb , -0.006249868119069099
-cycle , 1 , cPeriod , 2 , count , 3 , procDur , 9974223.0, procTime , 7142857.0, lI , 0.7161316726124932, spb , -0.1450071181509049
-cycle , 0 , cPeriod , 2 , count , 7 , procDur , 1.1025205E7, procTime , 7142857.0, lI , 0.6478661394504682, spb , -0.1885147177458253
-cycle , 2 , cPeriod , 1 , count , 6 , procDur , 1.0997228E7, procTime , 7692307.0, lI , 0.6994769045435814, spb , -0.15522662055009182
-cycle , 3 , cPeriod , 0 , count , 5 , procDur , 9692192.0, procTime , 1.0E7, lI , 1.0317583473377332, spb , 0.013577991179743277
-cycle , 1 , cPeriod , 2 , count , 4 , procDur , 9651807.0, procTime , 7142857.0, lI , 0.7400538572725294, spb , -0.1307366734242252
-cycle , 0 , cPeriod , 2 , count , 8 , procDur , 1.0925691E7, procTime , 7142857.0, lI , 0.653767070659421, spb , -0.18457695801545662
-cycle , 2 , cPeriod , 1 , count , 7 , procDur , 1.1028387E7, procTime , 7692307.0, lI , 0.697500640846209, spb , -0.15645538903523298
-cycle , 3 , cPeriod , 0 , count , 6 , procDur , 1.0572092E7, procTime , 1.0E7, lI , 0.9458865851716008, spb , -0.02416093377470177
-cycle , 1 , cPeriod , 2 , count , 5 , procDur , 9699298.0, procTime , 7142857.0, lI , 0.7364303066056945, spb , -0.13286834710883724
-cycle , 0 , cPeriod , 2 , count , 9 , procDur , 9816138.0, procTime , 7142857.0, lI , 0.7276646884956182, spb , -0.138068699647177
-cycle , 2 , cPeriod , 1 , count , 8 , procDur , 1.061489E7, procTime , 7692307.0, lI , 0.7246713814274099, spb , -0.13985888941108857
-cycle , 3 , cPeriod , 0 , count , 7 , procDur , 8837109.0, procTime , 1.0E7, lI , 1.1315917909352482, spb , 0.053689788233119644
-cycle , 1 , cPeriod , 2 , count , 6 , procDur , 9595508.0, procTime , 7142857.0, lI , 0.7443959194239638, spb , -0.1281960162190148
-cycle , 0 , cPeriod , 2 , count , 10 , procDur , 9049896.0, procTime , 7142857.0, lI , 0.7892750369728005, spb , -0.10277163275323817
-cycle , 2 , cPeriod , 1 , count , 9 , procDur , 8035366.0, procTime , 7692307.0, lI , 0.9573063628962265, spb , -0.018949054466607277
-cycle , 3 , cPeriod , 0 , count , 8 , procDur , 8230658.0, procTime , 1.0E7, lI , 1.2149696901511398, spb , 0.08456544372503089
-cycle , 1 , cPeriod , 2 , count , 7 , procDur , 7939993.0, procTime , 7142857.0, lI , 0.8996049492738848, spb , -0.045948163911789054
-cycle , 0 , cPeriod , 2 , count , 11 , procDur , 8790940.0, procTime , 7142857.0, lI , 0.8125248266965762, spb , -0.09016336027819354
-cycle , 3 , cPeriod , 0 , count , 9 , procDur , 7472626.0, procTime , 1.0E7, lI , 1.3382176493243474, spb , 0.1265267533521309
-cycle , 1 , cPeriod , 2 , count , 8 , procDur , 7809711.0, procTime , 7142857.0, lI , 0.9146122052403731, spb , -0.038763007380029406
-cycle , 2 , cPeriod , 1 , count , 10 , procDur , 1.0172969E7, procTime , 7692307.0, lI , 0.7561516210262706, spb , -0.12139111247130771
-cycle , 0 , cPeriod , 2 , count , 12 , procDur , 9782647.0, procTime , 7142857.0, lI , 0.7301558565897349, spb , -0.13658442695873949
-cycle , 1 , cPeriod , 2 , count , 9 , procDur , 9285170.0, procTime , 7142857.0, lI , 0.7692758452456983, spb , -0.11391790390853772
-cycle , 3 , cPeriod , 1 , count , 0 , procDur , 1.0479871E7, procTime , 7692307.0, lI , 0.7340077945615934, spb , -0.13429932820775084
-cycle , 2 , cPeriod , 1 , count , 11 , procDur , 9873314.0, procTime , 7692307.0, lI , 0.7791008166052452, spb , -0.10840634045020565
-cycle , 4 , cPeriod , 0 , count , 0 , procDur , 1.0696013E7, procTime , 1.0E7, lI , 0.9349278090817579, spb , -0.029221922098433713
-cycle , 0 , cPeriod , 2 , count , 13 , procDur , 1.0403868E7, procTime , 7142857.0, lI , 0.6865578263776511, spb , -0.16332287777307636
-cycle , 3 , cPeriod , 1 , count , 1 , procDur , 1.0424263E7, procTime , 7692307.0, lI , 0.7379233428780528, spb , -0.1319887513127467
-cycle , 1 , cPeriod , 2 , count , 10 , procDur , 1.2017962E7, procTime , 7142857.0, lI , 0.5943484427725766, spb , -0.22595887083312632
-cycle , 2 , cPeriod , 1 , count , 12 , procDur , 1.1953235E7, procTime , 7692307.0, lI , 0.6435334869598063, spb , -0.19142884918932657
-cycle , 4 , cPeriod , 0 , count , 1 , procDur , 1.219525E7, procTime , 1.0E7, lI , 0.819991390090404, spb , -0.086190707684403
-cycle , 0 , cPeriod , 3 , count , 0 , procDur , 1.2256216E7, procTime , 6666666.0, lI , 0.543941621133309, spb , -0.26444770872123435
-cycle , 3 , cPeriod , 1 , count , 2 , procDur , 1.1555944E7, procTime , 7692307.0, lI , 0.6656580371105987, spb , -0.1767488199834733
-cycle , 1 , cPeriod , 2 , count , 11 , procDur , 1.1110143E7, procTime , 7142857.0, lI , 0.6429131470225, spb , -0.1918476931979959
-cycle , 2 , cPeriod , 2 , count , 0 , procDur , 1.0249247E7, procTime , 7142857.0, lI , 0.6969152953382819, spb , -0.15682000382832995
-cycle , 4 , cPeriod , 0 , count , 2 , procDur , 1.1772525E7, procTime , 1.0E7, lI , 0.8494354439680527, spb , -0.07086962137855449
-cycle , 3 , cPeriod , 1 , count , 3 , procDur , 9610937.0, procTime , 7692307.0, lI , 0.8003701408093716, spb , -0.09670912183943924
-cycle , 2 , cPeriod , 2 , count , 1 , procDur , 8653201.0, procTime , 7142857.0, lI , 0.8254583477258878, spb , -0.08330483616156124
-cycle , 0 , cPeriod , 3 , count , 1 , procDur , 1.0022609E7, procTime , 6666666.0, lI , 0.6651627335756588, spb , -0.17707209056469916
-cycle , 1 , cPeriod , 2 , count , 12 , procDur , 1.0223937E7, procTime , 7142857.0, lI , 0.6986405530472263, spb , -0.1557462090598438
-cycle , 4 , cPeriod , 0 , count , 3 , procDur , 9930842.0, procTime , 1.0E7, lI , 1.0069639613640011, spb , 0.0030139276928205366
-cycle , 0 , cPeriod , 3 , count , 2 , procDur , 1.0174858E7, procTime , 6666666.0, lI , 0.655209733639526, spb , -0.1836196594244768
-cycle , 3 , cPeriod , 1 , count , 4 , procDur , 1.0450353E7, procTime , 7692307.0, lI , 0.7360810682663064, spb , -0.13307435201867693
-cycle , 2 , cPeriod , 2 , count , 2 , procDur , 1.1329985E7, procTime , 7142857.0, lI , 0.6304383456818345, spb , -0.2003573792565152
-cycle , 1 , cPeriod , 2 , count , 13 , procDur , 1.0657395E7, procTime , 7142857.0, lI , 0.6702254162485298, spb , -0.17377910689885123
-cycle , 4 , cPeriod , 0 , count , 4 , procDur , 1.1799313E7, procTime , 1.0E7, lI , 0.847506969261685, spb , -0.07185672179809793
-cycle , 3 , cPeriod , 1 , count , 5 , procDur , 9826642.0, procTime , 7692307.0, lI , 0.7828011847790934, spb , -0.10634852570356995
-cycle , 0 , cPeriod , 3 , count , 3 , procDur , 1.0120103E7, procTime , 6666666.0, lI , 0.658754757733197, spb , -0.1812762351572911
-cycle , 2 , cPeriod , 2 , count , 3 , procDur , 1.0529933E7, procTime , 7142857.0, lI , 0.6783383142133953, spb , -0.16855365222360674
-cycle , 1 , cPeriod , 3 , count , 0 , procDur , 1.0542431E7, procTime , 6666666.0, lI , 0.6323651537297232, spb , -0.19903206973263826
-cycle , 4 , cPeriod , 0 , count , 5 , procDur , 1.1740106E7, procTime , 1.0E7, lI , 0.8517810656905482, spb , -0.06967201812175396
-cycle , 3 , cPeriod , 1 , count , 6 , procDur , 1.1528414E7, procTime , 7692307.0, lI , 0.6672476370123418, spb , -0.17571295554617658
-cycle , 0 , cPeriod , 3 , count , 4 , procDur , 1.3105468E7, procTime , 6666666.0, lI , 0.5086934705422195, spb , -0.2935438368244798
-cycle , 2 , cPeriod , 2 , count , 4 , procDur , 1.1964199E7, procTime , 7142857.0, lI , 0.5970192404857191, spb , -0.22401167238465425
-cycle , 1 , cPeriod , 3 , count , 1 , procDur , 1.2545478E7, procTime , 6666666.0, lI , 0.5313999195566721, spb , -0.2745785156692416
-cycle , 4 , cPeriod , 0 , count , 6 , procDur , 1.15307E7, procTime , 1.0E7, lI , 0.8672500368581265, spb , -0.061855673028386716
-cycle , 3 , cPeriod , 1 , count , 7 , procDur , 1.2143884E7, procTime , 7692307.0, lI , 0.6334305400150396, spb , -0.1983010015257328
-cycle , 0 , cPeriod , 3 , count , 5 , procDur , 1.0411064E7, procTime , 6666666.0, lI , 0.6403443490502028, spb , -0.19358641871184587
-cycle , 1 , cPeriod , 3 , count , 2 , procDur , 1.1313998E7, procTime , 6666666.0, lI , 0.5892405142726735, spb , -0.22970740011834997
-cycle , 2 , cPeriod , 2 , count , 5 , procDur , 1.2582016E7, procTime , 7142857.0, lI , 0.567703697086381, spb , -0.2458782774867834
-cycle , 4 , cPeriod , 0 , count , 7 , procDur , 1.0972118E7, procTime , 1.0E7, lI , 0.91140106221971, spb , -0.04029046959174232
-cycle , 3 , cPeriod , 1 , count , 8 , procDur , 1.1216202E7, procTime , 7692307.0, lI , 0.6858210114261494, spb , -0.16378921358291615
-cycle , 0 , cPeriod , 3 , count , 6 , procDur , 1.1160929E7, procTime , 6666666.0, lI , 0.5973217820846275, spb , -0.22379164787359845
-cycle , 2 , cPeriod , 2 , count , 6 , procDur , 9435620.0, procTime , 7142857.0, lI , 0.7570098202343885, spb , -0.12089848662153496
-cycle , 1 , cPeriod , 3 , count , 3 , procDur , 9908013.0, procTime , 6666666.0, lI , 0.6728560004917232, spb , -0.17207787022377563
-cycle , 4 , cPeriod , 0 , count , 8 , procDur , 1.108903E7, procTime , 1.0E7, lI , 0.9017921315029358, spb , -0.044893558405988715
-cycle , 3 , cPeriod , 1 , count , 9 , procDur , 1.096566E7, procTime , 7692307.0, lI , 0.7014905623555718, spb , -0.1539781674645146
-cycle , 1 , cPeriod , 3 , count , 4 , procDur , 1.1201565E7, procTime , 6666666.0, lI , 0.5951548734484868, spb , -0.22537000581448008
-cycle , 2 , cPeriod , 2 , count , 7 , procDur , 1.207284E7, procTime , 7142857.0, lI , 0.5916467873342146, spb , -0.2279374893782883
-cycle , 0 , cPeriod , 3 , count , 7 , procDur , 1.4789237E7, procTime , 6666666.0, lI , 0.4507782247319453, spb , -0.3460370711245251
-cycle , 4 , cPeriod , 0 , count , 9 , procDur , 1.1905436E7, procTime , 1.0E7, lI , 0.8399524385331205, spb , -0.07574530473265362
-cycle , 3 , cPeriod , 1 , count , 10 , procDur , 9773541.0, procTime , 7692307.0, lI , 0.7870542518827107, spb , -0.10399533056186047
-cycle , 2 , cPeriod , 2 , count , 8 , procDur , 1.1196294E7, procTime , 7142857.0, lI , 0.6379661877403362, spb , -0.19520233831163555
-cycle , 1 , cPeriod , 3 , count , 5 , procDur , 1.1723034E7, procTime , 6666666.0, lI , 0.5686809404459631, spb , -0.24513132704562618
-cycle , 0 , cPeriod , 3 , count , 8 , procDur , 1.1389227E7, procTime , 6666666.0, lI , 0.5853484174123494, spb , -0.2325855514960358
-cycle , 3 , cPeriod , 1 , count , 11 , procDur , 1.1421508E7, procTime , 7692307.0, lI , 0.6734931149196761, spb , -0.1716668396851324
-cycle , 4 , cPeriod , 1 , count , 0 , procDur , 1.2969533E7, procTime , 7692307.0, lI , 0.5931059352715321, spb , -0.22686772991578427
-cycle , 2 , cPeriod , 2 , count , 9 , procDur , 1.1237547E7, procTime , 7142857.0, lI , 0.6356242158542251, spb , -0.1967995655056767
-cycle , 1 , cPeriod , 3 , count , 6 , procDur , 1.1308191E7, procTime , 6666666.0, lI , 0.5895431019868695, spb , -0.2294844377771013
-cycle , 0 , cPeriod , 3 , count , 9 , procDur , 1.2153687E7, procTime , 6666666.0, lI , 0.5485303348687521, spb , -0.2607993500367278
-cycle , 3 , cPeriod , 1 , count , 12 , procDur , 1.105004E7, procTime , 7692307.0, lI , 0.6961338601489225, spb , -0.1573072415183478
-cycle , 4 , cPeriod , 1 , count , 1 , procDur , 1.1597489E7, procTime , 7692307.0, lI , 0.6632734896321092, spb , -0.17830736066419373
-cycle , 2 , cPeriod , 2 , count , 10 , procDur , 1.0382648E7, procTime , 7142857.0, lI , 0.6879610095613373, spb , -0.1624361748636173
-cycle , 1 , cPeriod , 3 , count , 7 , procDur , 1.1292671E7, procTime , 6666666.0, lI , 0.5903533362479081, spb , -0.22888797810059802
-cycle , 0 , cPeriod , 3 , count , 10 , procDur , 1.1397892E7, procTime , 6666666.0, lI , 0.5849034189830892, spb , -0.2329158400127256
-cycle , 2 , cPeriod , 2 , count , 11 , procDur , 9189033.0, procTime , 7142857.0, lI , 0.7773241210473398, spb , -0.10939785554779767
-cycle , 3 , cPeriod , 2 , count , 0 , procDur , 1.1755707E7, procTime , 7142857.0, lI , 0.6076076070967064, spb , -0.21637679751589722
-cycle , 4 , cPeriod , 1 , count , 2 , procDur , 1.0607223E7, procTime , 7692307.0, lI , 0.7251951806801837, spb , -0.1395450906920244
-cycle , 1 , cPeriod , 3 , count , 8 , procDur , 1.1774866E7, procTime , 6666666.0, lI , 0.566177653316819, spb , -0.24704727596829804
-cycle , 0 , cPeriod , 3 , count , 11 , procDur , 1.1298032E7, procTime , 6666666.0, lI , 0.5900732092102412, spb , -0.22909410296189073
-cycle , 3 , cPeriod , 2 , count , 1 , procDur , 9442944.0, procTime , 7142857.0, lI , 0.7564226791983517, spb , -0.12123545853794095
-cycle , 4 , cPeriod , 1 , count , 3 , procDur , 9378849.0, procTime , 7692307.0, lI , 0.8201760152018653, spb , -0.08609293514337046
-cycle , 2 , cPeriod , 2 , count , 12 , procDur , 1.021045E7, procTime , 7142857.0, lI , 0.6995633884892438, spb , -0.15517292731393656
-cycle , 1 , cPeriod , 3 , count , 9 , procDur , 1.150787E7, procTime , 6666666.0, lI , 0.579313634929835, spb , -0.23708624967269876
-cycle , 0 , cPeriod , 3 , count , 12 , procDur , 1.0076041E7, procTime , 6666666.0, lI , 0.6616354578152273, spb , -0.17938122848444352
-cycle , 2 , cPeriod , 2 , count , 13 , procDur , 9428266.0, procTime , 7142857.0, lI , 0.7576002840819298, spb , -0.12055987115474155
-cycle , 3 , cPeriod , 2 , count , 2 , procDur , 1.0420896E7, procTime , 7142857.0, lI , 0.6854359740275692, spb , -0.1640331060461063
-cycle , 4 , cPeriod , 1 , count , 4 , procDur , 1.0466519E7, procTime , 7692307.0, lI , 0.7349441586070784, spb , -0.13374565755540846
-cycle , 1 , cPeriod , 3 , count , 10 , procDur , 1.1279907E7, procTime , 6666666.0, lI , 0.5910213621442092, spb , -0.2283968214982958
-cycle , 0 , cPeriod , 3 , count , 13 , procDur , 1.1557698E7, procTime , 6666666.0, lI , 0.5768160753118831, spb , -0.23896264474847126
-cycle , 2 , cPeriod , 3 , count , 0 , procDur , 1.0580436E7, procTime , 6666666.0, lI , 0.6300936936814324, spb , -0.20059486701725007
-cycle , 3 , cPeriod , 2 , count , 3 , procDur , 1.03384E7, procTime , 7142857.0, lI , 0.6909054592586861, spb , -0.16058137568120187
-cycle , 4 , cPeriod , 1 , count , 5 , procDur , 1.0275869E7, procTime , 7692307.0, lI , 0.7485797064948959, spb , -0.12576195050071295
-cycle , 1 , cPeriod , 3 , count , 11 , procDur , 9508870.0, procTime , 6666666.0, lI , 0.7010997100601859, spb , -0.1542202124905745
-cycle , 0 , cPeriod , 3 , count , 14 , procDur , 1.023401E7, procTime , 6666666.0, lI , 0.6514226583714497, spb , -0.1861371394853787
-cycle , 2 , cPeriod , 3 , count , 1 , procDur , 9200224.0, procTime , 6666666.0, lI , 0.7246199657747463, spb , -0.1398897038284764
-cycle , 4 , cPeriod , 1 , count , 6 , procDur , 1.053986E7, procTime , 7692307.0, lI , 0.7298300926198261, spb , -0.13677823361415115
-cycle , 3 , cPeriod , 2 , count , 4 , procDur , 1.6731935E7, procTime , 7142857.0, lI , 0.4268996383263502, spb , -0.36967421313453275
-cycle , 1 , cPeriod , 3 , count , 12 , procDur , 1.2339773E7, procTime , 6666666.0, lI , 0.5402583985945284, spb , -0.26739847306127185
-cycle , 0 , cPeriod , 4 , count , 0 , procDur , 1.0705669E7, procTime , 7142857.0, lI , 0.667203235967785, spb , -0.17574185601608422
-cycle , 2 , cPeriod , 3 , count , 2 , procDur , 1.1261971E7, procTime , 6666666.0, lI , 0.5919626324734809, spb , -0.22770570716689378
-cycle , 4 , cPeriod , 1 , count , 7 , procDur , 1.2170166E7, procTime , 7692307.0, lI , 0.6320626193595058, spb , -0.1992398934025625
-cycle , 1 , cPeriod , 3 , count , 13 , procDur , 1.0763753E7, procTime , 6666666.0, lI , 0.6193625959272756, spb , -0.208055025767873
-cycle , 3 , cPeriod , 2 , count , 5 , procDur , 1.3848323E7, procTime , 7142857.0, lI , 0.5157922009762481, spb , -0.28752522888785764
-cycle , 0 , cPeriod , 4 , count , 1 , procDur , 1.1725523E7, procTime , 7142857.0, lI , 0.609171718822265, spb , -0.215260267260709
-cycle , 2 , cPeriod , 3 , count , 3 , procDur , 1.0810651E7, procTime , 6666666.0, lI , 0.6166757210088458, spb , -0.20994314974046827
-cycle , 4 , cPeriod , 1 , count , 8 , procDur , 1.2305331E7, procTime , 7692307.0, lI , 0.6251198769053835, spb , -0.20403669163777996
-cycle , 1 , cPeriod , 3 , count , 14 , procDur , 1.19167E7, procTime , 6666666.0, lI , 0.5594389386323395, spb , -0.25224730871060913
-cycle , 2 , cPeriod , 3 , count , 4 , procDur , 1.1223111E7, procTime , 6666666.0, lI , 0.594012301936602, spb , -0.22620456072948053
-cycle , 0 , cPeriod , 4 , count , 2 , procDur , 1.2604506E7, procTime , 7142857.0, lI , 0.5666907532909263, spb , -0.2466538736960533
-cycle , 3 , cPeriod , 2 , count , 6 , procDur , 1.3294229E7, procTime , 7142857.0, lI , 0.5372900526988064, spb , -0.26979119981472016
-cycle , 4 , cPeriod , 1 , count , 9 , procDur , 1.2821878E7, procTime , 7692307.0, lI , 0.5999360624083305, spb , -0.22189503165444893
-cycle , 1 , cPeriod , 4 , count , 0 , procDur , 1.0920844E7, procTime , 7142857.0, lI , 0.6540572322065951, spb , -0.18438424778581836
-cycle , 2 , cPeriod , 3 , count , 5 , procDur , 1.1570902E7, procTime , 6666666.0, lI , 0.5761578483682603, spb , -0.23945851782008307
-cycle , 0 , cPeriod , 4 , count , 3 , procDur , 1.130961E7, procTime , 7142857.0, lI , 0.6315741214772216, spb , -0.1995756733595861
-cycle , 3 , cPeriod , 2 , count , 7 , procDur , 1.2307982E7, procTime , 7142857.0, lI , 0.5803434714155415, spb , -0.23631489679928286
-cycle , 4 , cPeriod , 1 , count , 10 , procDur , 1.0319455E7, procTime , 7692307.0, lI , 0.7454179508510866, spb , -0.12760015295365468
-cycle , 1 , cPeriod , 4 , count , 1 , procDur , 1.0818239E7, procTime , 7142857.0, lI , 0.6602606024880759, spb , -0.18028461614891386
-cycle , 2 , cPeriod , 3 , count , 6 , procDur , 1.0295183E7, procTime , 6666666.0, lI , 0.6475519667790267, spb , -0.1887253732239151
-cycle , 0 , cPeriod , 4 , count , 4 , procDur , 1.2378804E7, procTime , 7142857.0, lI , 0.5770231922243861, spb , -0.2388067309471199
-cycle , 3 , cPeriod , 2 , count , 8 , procDur , 1.2132102E7, procTime , 7142857.0, lI , 0.5887567546003157, spb , -0.23006409732577845
-cycle , 4 , cPeriod , 1 , count , 11 , procDur , 1.2403293E7, procTime , 7692307.0, lI , 0.6201826402069193, spb , -0.20748039444802857
-cycle , 1 , cPeriod , 4 , count , 2 , procDur , 1.1336199E7, procTime , 7142857.0, lI , 0.6300927674258364, spb , -0.20059550544292212
-cycle , 2 , cPeriod , 3 , count , 7 , procDur , 1.041723E7, procTime , 6666666.0, lI , 0.6399653266751334, spb , -0.19384355545608853
-cycle , 0 , cPeriod , 4 , count , 5 , procDur , 1.210367E7, procTime , 7142857.0, lI , 0.5901397675250565, spb , -0.22904511873709488
-cycle , 3 , cPeriod , 2 , count , 9 , procDur , 1.1550854E7, procTime , 7142857.0, lI , 0.6183834545913228, spb , -0.2087421388759812
-cycle , 4 , cPeriod , 1 , count , 12 , procDur , 1.0774684E7, procTime , 7692307.0, lI , 0.7139241392137348, spb , -0.14634793342159078
-cycle , 2 , cPeriod , 3 , count , 8 , procDur , 1.1342956E7, procTime , 6666666.0, lI , 0.5877362126768366, spb , -0.23081754991650835
-cycle , 1 , cPeriod , 4 , count , 3 , procDur , 1.2730774E7, procTime , 7142857.0, lI , 0.5610701281791665, spb , -0.25098285286542027
-cycle , 0 , cPeriod , 4 , count , 6 , procDur , 1.1735247E7, procTime , 7142857.0, lI , 0.608666950086351, spb , -0.2156202792964486
-cycle , 3 , cPeriod , 2 , count , 10 , procDur , 1.1429598E7, procTime , 7142857.0, lI , 0.6249438519185014, spb , -0.2041590000916972
-cycle , 4 , cPeriod , 2 , count , 0 , procDur , 1.0147743E7, procTime , 7142857.0, lI , 0.70388627303628, spb , -0.15249750418548114
-cycle , 2 , cPeriod , 3 , count , 9 , procDur , 1.0541594E7, procTime , 6666666.0, lI , 0.6324153633691452, spb , -0.1989975882252843
-cycle , 1 , cPeriod , 4 , count , 4 , procDur , 1.0501005E7, procTime , 7142857.0, lI , 0.680206989711937, spb , -0.16735890963098318
-cycle , 3 , cPeriod , 2 , count , 11 , procDur , 1.1075235E7, procTime , 7142857.0, lI , 0.6449395430435562, spb , -0.19048099443941258
-cycle , 0 , cPeriod , 4 , count , 7 , procDur , 1.1914126E7, procTime , 7142857.0, lI , 0.599528408546292, spb , -0.22219023311128827
-cycle , 4 , cPeriod , 2 , count , 1 , procDur , 1.1036089E7, procTime , 7142857.0, lI , 0.6472272015928832, spb , -0.18894323853200723
-cycle , 2 , cPeriod , 3 , count , 10 , procDur , 1.1699078E7, procTime , 6666666.0, lI , 0.569845418587687, spb , -0.2442429389928012
-cycle , 1 , cPeriod , 4 , count , 5 , procDur , 1.1416175E7, procTime , 7142857.0, lI , 0.6256786533142669, spb , -0.20364866187714883
-cycle , 3 , cPeriod , 2 , count , 12 , procDur , 1.010742E7, procTime , 7142857.0, lI , 0.7066943888747079, spb , -0.1507683569524714
-cycle , 0 , cPeriod , 4 , count , 8 , procDur , 9473294.0, procTime , 7142857.0, lI , 0.7539992952820845, spb , -0.12262906003903896
-cycle , 4 , cPeriod , 2 , count , 2 , procDur , 1.0112509E7, procTime , 7142857.0, lI , 0.706338753320269, spb , -0.1509869655010051
-cycle , 1 , cPeriod , 4 , count , 6 , procDur , 1.1162621E7, procTime , 7142857.0, lI , 0.6398906672545812, spb , -0.19389422392903935
-cycle , 2 , cPeriod , 3 , count , 11 , procDur , 1.1786102E7, procTime , 6666666.0, lI , 0.56563790131801, spb , -0.24746149775821671
-cycle , 0 , cPeriod , 4 , count , 9 , procDur , 1.0928751E7, procTime , 7142857.0, lI , 0.6535840188874282, spb , -0.18469857549928972
-cycle , 3 , cPeriod , 2 , count , 13 , procDur , 1.1822895E7, procTime , 7142857.0, lI , 0.6041546507856156, spb , -0.21885187696528666
-cycle , 4 , cPeriod , 2 , count , 3 , procDur , 1.3632046E7, procTime , 7142857.0, lI , 0.5239754179233257, spb , -0.28068908727328884
-cycle , 1 , cPeriod , 4 , count , 7 , procDur , 1.0796072E7, procTime , 7142857.0, lI , 0.6616162804397747, spb , -0.1793938166082241
-cycle , 2 , cPeriod , 3 , count , 12 , procDur , 1.0816987E7, procTime , 6666666.0, lI , 0.6163145060634722, spb , -0.21019761025215802
-cycle , 0 , cPeriod , 4 , count , 10 , procDur , 1.1135795E7, procTime , 7142857.0, lI , 0.6414321563929652, spb , -0.1928492717322427
-cycle , 3 , cPeriod , 3 , count , 0 , procDur , 1.1489288E7, procTime , 6666666.0, lI , 0.580250577755558, spb , -0.23638441844477057
-cycle , 4 , cPeriod , 2 , count , 4 , procDur , 1.1243781E7, procTime , 7142857.0, lI , 0.6352718004735239, spb , -0.1970404224398915
-cycle , 2 , cPeriod , 3 , count , 13 , procDur , 1.1255748E7, procTime , 6666666.0, lI , 0.5922899126739511, spb , -0.2274656637921907
-cycle , 1 , cPeriod , 4 , count , 8 , procDur , 1.2439148E7, procTime , 7142857.0, lI , 0.5742239741821547, spb , -0.24091867941585482
-cycle , 0 , cPeriod , 4 , count , 11 , procDur , 1.101291E7, procTime , 7142857.0, lI , 0.6485894282256007, spb , -0.1880301344492059
-cycle , 3 , cPeriod , 3 , count , 1 , procDur , 1.0491474E7, procTime , 6666666.0, lI , 0.6354365459038454, spb , -0.19692781118348132
-cycle , 4 , cPeriod , 2 , count , 5 , procDur , 1.0900994E7, procTime , 7142857.0, lI , 0.6552482278221601, spb , -0.18359414496830984
-cycle , 2 , cPeriod , 3 , count , 14 , procDur , 1.1168365E7, procTime , 6666666.0, lI , 0.5969240797556312, spb , -0.22408090143323287
-cycle , 1 , cPeriod , 4 , count , 9 , procDur , 1.035351E7, procTime , 7142857.0, lI , 0.6898971459920356, spb , -0.16121565166519555
-cycle , 3 , cPeriod , 3 , count , 2 , procDur , 1.0176471E7, procTime , 6666666.0, lI , 0.6551058810072765, spb , -0.18368850180826182
-cycle , 0 , cPeriod , 4 , count , 12 , procDur , 1.3619968E7, procTime , 7142857.0, lI , 0.5244400721058963, spb , -0.28030413157086864
-cycle , 4 , cPeriod , 2 , count , 6 , procDur , 1.1561648E7, procTime , 7142857.0, lI , 0.6178061293684084, spb , -0.2091477872976429
-cycle , 1 , cPeriod , 4 , count , 10 , procDur , 1.1416771E7, procTime , 7142857.0, lI , 0.625645990446861, spb , -0.20367133433573337
-cycle , 2 , cPeriod , 4 , count , 0 , procDur , 1.3309636E7, procTime , 7142857.0, lI , 0.5366680952056089, spb , -0.2702942226522462
-cycle , 3 , cPeriod , 3 , count , 3 , procDur , 1.2478049E7, procTime , 6666666.0, lI , 0.5342715035018696, spb , -0.2722379892120638
-cycle , 0 , cPeriod , 4 , count , 13 , procDur , 1.0969177E7, procTime , 7142857.0, lI , 0.6511752887203844, spb , -0.18630208873311752
-cycle , 4 , cPeriod , 2 , count , 7 , procDur , 1.1245856E7, procTime , 7142857.0, lI , 0.6351545849422223, spb , -0.19712056255531496
-cycle , 1 , cPeriod , 4 , count , 11 , procDur , 1.2648566E7, procTime , 7142857.0, lI , 0.5647167433841908, spb , -0.24816933560017854
-cycle , 2 , cPeriod , 4 , count , 1 , procDur , 1.0819799E7, procTime , 7142857.0, lI , 0.6601654060301859, spb , -0.18034723729718463
-cycle , 3 , cPeriod , 3 , count , 4 , procDur , 1.111928E7, procTime , 6666666.0, lI , 0.599559144117245, spb , -0.22216796903418012
-cycle , 0 , cPeriod , 5 , count , 0 , procDur , 1.2419095E7, procTime , 7692307.0, lI , 0.6193935226359086, spb , -0.2080333406295245
-cycle , 4 , cPeriod , 2 , count , 8 , procDur , 1.1429007E7, procTime , 7142857.0, lI , 0.6249761680957935, spb , -0.20413654307484405
-cycle , 2 , cPeriod , 4 , count , 2 , procDur , 1.1526539E7, procTime , 7142857.0, lI , 0.6196879219338953, spb , -0.207826968411527
-cycle , 1 , cPeriod , 4 , count , 12 , procDur , 1.1545253E7, procTime , 7142857.0, lI , 0.6186834537103691, spb , -0.2085314987502816
-cycle , 3 , cPeriod , 3 , count , 5 , procDur , 1.0702051E7, procTime , 6666666.0, lI , 0.6229334919072989, spb , -0.20555831873332855
-cycle , 0 , cPeriod , 5 , count , 1 , procDur , 1.1447637E7, procTime , 7692307.0, lI , 0.6719558805018013, spb , -0.172659241058724
-cycle , 4 , cPeriod , 2 , count , 9 , procDur , 1.1248012E7, procTime , 7142857.0, lI , 0.6350328395808966, spb , -0.19720381536944642
-cycle , 2 , cPeriod , 4 , count , 3 , procDur , 9431096.0, procTime , 7142857.0, lI , 0.7573729500791848, spb , -0.12069020996397715
-cycle , 1 , cPeriod , 4 , count , 13 , procDur , 1.0596061E7, procTime , 7142857.0, lI , 0.6741049338994934, spb , -0.1712724941674205
-cycle , 4 , cPeriod , 2 , count , 10 , procDur , 1.0453434E7, procTime , 7142857.0, lI , 0.6833024439624338, spb , -0.16538702593690477
-cycle , 0 , cPeriod , 5 , count , 2 , procDur , 1.0830677E7, procTime , 7692307.0, lI , 0.7102332568868963, spb , -0.1485989955879044
-cycle , 3 , cPeriod , 3 , count , 6 , procDur , 1.4387048E7, procTime , 6666666.0, lI , 0.46337970096436737, spb , -0.3340629950437862
-cycle , 2 , cPeriod , 4 , count , 4 , procDur , 1.1362472E7, procTime , 7142857.0, lI , 0.6286358285415357, spb , -0.20160087038420874
-cycle , 1 , cPeriod , 5 , count , 0 , procDur , 1.0756056E7, procTime , 7692307.0, lI , 0.7151605569922656, spb , -0.1455964460479599
-cycle , 4 , cPeriod , 2 , count , 11 , procDur , 1.0271719E7, procTime , 7142857.0, lI , 0.6953906157284871, spb , -0.15777117440173105
-cycle , 0 , cPeriod , 5 , count , 3 , procDur , 1.0605267E7, procTime , 7692307.0, lI , 0.725328933255523, spb , -0.13946499825506767
-cycle , 3 , cPeriod , 3 , count , 7 , procDur , 1.1055131E7, procTime , 6666666.0, lI , 0.6030381729533554, spb , -0.21965519569023498
-cycle , 1 , cPeriod , 5 , count , 1 , procDur , 9359618.0, procTime , 7692307.0, lI , 0.8218612127118863, spb , -0.08520151535820551
-cycle , 2 , cPeriod , 4 , count , 5 , procDur , 1.0510343E7, procTime , 7142857.0, lI , 0.6796026542616164, spb , -0.16774493361564288
-cycle , 0 , cPeriod , 5 , count , 4 , procDur , 9305484.0, procTime , 7692307.0, lI , 0.8266423326288025, spb , -0.08268235811995447
-cycle , 4 , cPeriod , 2 , count , 12 , procDur , 1.0605734E7, procTime , 7142857.0, lI , 0.6734901139327085, spb , -0.17166877484223367
-cycle , 3 , cPeriod , 3 , count , 8 , procDur , 1.0007661E7, procTime , 6666666.0, lI , 0.666156257690983, spb , -0.17642388810705542
-cycle , 2 , cPeriod , 4 , count , 6 , procDur , 9570747.0, procTime , 7142857.0, lI , 0.7463217865857283, spb , -0.12707388029323743
-cycle , 1 , cPeriod , 5 , count , 2 , procDur , 1.0462777E7, procTime , 7692307.0, lI , 0.7352070105288491, spb , -0.13359036040937938
-cycle , 3 , cPeriod , 3 , count , 9 , procDur , 9218704.0, procTime , 6666666.0, lI , 0.7231673779741707, spb , -0.14076117308212654
-cycle , 4 , cPeriod , 2 , count , 13 , procDur , 1.0423907E7, procTime , 7142857.0, lI , 0.685237982265191, spb , -0.1641585723979932
-cycle , 0 , cPeriod , 5 , count , 5 , procDur , 1.1376904E7, procTime , 7692307.0, lI , 0.6761335948690435, spb , -0.16996748485404117
-cycle , 1 , cPeriod , 5 , count , 3 , procDur , 1.1665426E7, procTime , 7692307.0, lI , 0.6594107236203804, spb , -0.1808439944520586
-cycle , 2 , cPeriod , 4 , count , 7 , procDur , 1.2245531E7, procTime , 7142857.0, lI , 0.5833031658651634, spb , -0.23410566643979472
-cycle , 3 , cPeriod , 3 , count , 10 , procDur , 1.2958907E7, procTime , 6666666.0, lI , 0.5144466273274436, spb , -0.28865967563340866
-cycle , 4 , cPeriod , 3 , count , 0 , procDur , 1.2214449E7, procTime , 6666666.0, lI , 0.5458016157748908, spb , -0.2629651829917353
-cycle , 0 , cPeriod , 5 , count , 6 , procDur , 1.2462127E7, procTime , 7692307.0, lI , 0.617254743110867, spb , -0.20953556417616423
-cycle , 1 , cPeriod , 5 , count , 4 , procDur , 1.0755274E7, procTime , 7692307.0, lI , 0.7152125552542873, spb , -0.1455648702890461
-cycle , 2 , cPeriod , 4 , count , 8 , procDur , 1.089409E7, procTime , 7142857.0, lI , 0.6556634835952337, spb , -0.18331900317914787
-cycle , 4 , cPeriod , 3 , count , 1 , procDur , 1.04758E7, procTime , 6666666.0, lI , 0.6363872926172702, spb , -0.19627850093195792
-cycle , 3 , cPeriod , 3 , count , 11 , procDur , 1.1164035E7, procTime , 6666666.0, lI , 0.5971555983119007, spb , -0.22391249184624668
-cycle , 0 , cPeriod , 5 , count , 7 , procDur , 1.1831004E7, procTime , 7692307.0, lI , 0.6501820978168886, spb , -0.18696499258577748
-cycle , 2 , cPeriod , 4 , count , 9 , procDur , 9549622.0, procTime , 7142857.0, lI , 0.7479727469841214, spb , -0.1261142257318394
-cycle , 1 , cPeriod , 5 , count , 5 , procDur , 1.03152E7, procTime , 7692307.0, lI , 0.7457254343105321, spb , -0.1274210442603724
-cycle , 4 , cPeriod , 3 , count , 2 , procDur , 1.0996866E7, procTime , 6666666.0, lI , 0.606233266823475, spb , -0.2173602355674478
-cycle , 0 , cPeriod , 5 , count , 8 , procDur , 9554288.0, procTime , 7692307.0, lI , 0.8051156716230451, spb , -0.09414171970823401
-cycle , 3 , cPeriod , 3 , count , 12 , procDur , 1.0838999E7, procTime , 6666666.0, lI , 0.6150628854195853, spb , -0.21108047870505156
-cycle , 2 , cPeriod , 4 , count , 10 , procDur , 1.2340118E7, procTime , 7142857.0, lI , 0.5788321473100987, spb , -0.23744735693848554
-cycle , 1 , cPeriod , 5 , count , 6 , procDur , 1.2898392E7, procTime , 7692307.0, lI , 0.5963772073294098, spb , -0.2244789630061328
-cycle , 0 , cPeriod , 5 , count , 9 , procDur , 1.0167902E7, procTime , 7692307.0, lI , 0.7565284362496806, spb , -0.12117474315405269
-cycle , 4 , cPeriod , 3 , count , 3 , procDur , 1.1245476E7, procTime , 6666666.0, lI , 0.5928309304114828, spb , -0.22706914552029525
-cycle , 2 , cPeriod , 4 , count , 11 , procDur , 1.1533923E7, procTime , 7142857.0, lI , 0.6192911986667502, spb , -0.20810509211641826
-cycle , 1 , cPeriod , 5 , count , 7 , procDur , 1.1339291E7, procTime , 7692307.0, lI , 0.6783763640954271, spb , -0.16852929212185208
-cycle , 3 , cPeriod , 3 , count , 13 , procDur , 1.8165877E7, procTime , 6666666.0, lI , 0.3669883925780187, spb , -0.4353476717670821
-cycle , 4 , cPeriod , 3 , count , 4 , procDur , 9143596.0, procTime , 6666666.0, lI , 0.729107672736197, spb , -0.1372083314595423
-cycle , 0 , cPeriod , 5 , count , 10 , procDur , 1.0897921E7, procTime , 7692307.0, lI , 0.7058508682527612, spb , -0.15128704673346116
-cycle , 1 , cPeriod , 5 , count , 8 , procDur , 9167188.0, procTime , 7692307.0, lI , 0.8391130409892325, spb , -0.07617952931322979
-cycle , 2 , cPeriod , 4 , count , 12 , procDur , 1.0664885E7, procTime , 7142857.0, lI , 0.6697547137170256, spb , -0.1740842211552301
-cycle , 3 , cPeriod , 3 , count , 14 , procDur , 9602148.0, procTime , 6666666.0, lI , 0.694289027830023, spb , -0.15845969804537421
-cycle , 4 , cPeriod , 3 , count , 5 , procDur , 9619010.0, procTime , 6666666.0, lI , 0.6930719481526685, spb , -0.15922167871609552
-cycle , 0 , cPeriod , 5 , count , 11 , procDur , 9911376.0, procTime , 7692307.0, lI , 0.7761088874037267, spb , -0.11007734332800309
-cycle , 1 , cPeriod , 5 , count , 9 , procDur , 9710950.0, procTime , 7692307.0, lI , 0.7921271348323284, spb , -0.1012051094142493
-cycle , 2 , cPeriod , 4 , count , 13 , procDur , 1.0689843E7, procTime , 7142857.0, lI , 0.6681910108502062, spb , -0.17509937120673533
-cycle , 3 , cPeriod , 4 , count , 0 , procDur , 1.0598918E7, procTime , 7142857.0, lI , 0.6739232249933437, spb , -0.17138957655210346
-cycle , 4 , cPeriod , 3 , count , 6 , procDur , 9760888.0, procTime , 6666666.0, lI , 0.6829978993714506, spb , -0.1655806320326555
-cycle , 0 , cPeriod , 5 , count , 12 , procDur , 1.0083455E7, procTime , 7692307.0, lI , 0.7628642166796996, spb , -0.11755275587802026
-cycle , 1 , cPeriod , 5 , count , 10 , procDur , 1.1125401E7, procTime , 7692307.0, lI , 0.6914184037051788, spb , -0.16025906488439357
-cycle , 3 , cPeriod , 4 , count , 1 , procDur , 1.0915083E7, procTime , 7142857.0, lI , 0.654402444763819, spb , -0.1841550868650756
-cycle , 2 , cPeriod , 5 , count , 0 , procDur , 1.2077496E7, procTime , 7692307.0, lI , 0.6369124030345363, spb , -0.19592029371598824
-cycle , 4 , cPeriod , 3 , count , 7 , procDur , 1.147172E7, procTime , 6666666.0, lI , 0.5811391840107674, spb , -0.23571984074444333
-cycle , 0 , cPeriod , 6 , count , 0 , procDur , 1.1612863E7, procTime , 1.0E7, lI , 0.8611140939146531, spb , -0.06493930258257875
-cycle , 1 , cPeriod , 5 , count , 11 , procDur , 1.0715014E7, procTime , 7692307.0, lI , 0.7178998552871699, spb , -0.14393613421111234
-cycle , 3 , cPeriod , 4 , count , 2 , procDur , 1.0047601E7, procTime , 7142857.0, lI , 0.7109017366434037, spb , -0.14819042484374728
-cycle , 2 , cPeriod , 5 , count , 1 , procDur , 9685781.0, procTime , 7692307.0, lI , 0.7941855179257099, spb , -0.10007803661524228
-cycle , 4 , cPeriod , 3 , count , 8 , procDur , 1.0533467E7, procTime , 6666666.0, lI , 0.6329032976511912, spb , -0.19866264149090676
-cycle , 0 , cPeriod , 6 , count , 1 , procDur , 1.0472231E7, procTime , 1.0E7, lI , 0.9549063614047475, spb , -0.020039213462374986
-cycle , 2 , cPeriod , 5 , count , 2 , procDur , 1.1212362E7, procTime , 7692307.0, lI , 0.6860558908105179, spb , -0.16364050224974264
-cycle , 1 , cPeriod , 5 , count , 12 , procDur , 1.240802E7, procTime , 7692307.0, lI , 0.6199463733939823, spb , -0.2076458762216691
-cycle , 3 , cPeriod , 4 , count , 3 , procDur , 1.1848722E7, procTime , 7142857.0, lI , 0.6028377575235541, spb , -0.2197995543491195
-cycle , 4 , cPeriod , 3 , count , 9 , procDur , 1.0891082E7, procTime , 6666666.0, lI , 0.6121215504575211, spb , -0.2131623303847688
-cycle , 0 , cPeriod , 6 , count , 2 , procDur , 1.0516303E7, procTime , 1.0E7, lI , 0.9509045146378913, spb , -0.021863090683875184
-cycle , 2 , cPeriod , 5 , count , 3 , procDur , 9688048.0, procTime , 7692307.0, lI , 0.7939996787794611, spb , -0.10017967327105959
-cycle , 3 , cPeriod , 4 , count , 4 , procDur , 9345586.0, procTime , 7142857.0, lI , 0.7643027414225282, spb , -0.11673458267259328
-cycle , 1 , cPeriod , 6 , count , 0 , procDur , 1.0507777E7, procTime , 1.0E7, lI , 0.9516760776327857, spb , -0.021510847450811686
-cycle , 4 , cPeriod , 3 , count , 10 , procDur , 9348230.0, procTime , 6666666.0, lI , 0.7131474086538307, spb , -0.1468206915392992
-cycle , 0 , cPeriod , 6 , count , 3 , procDur , 9462411.0, procTime , 1.0E7, lI , 1.0568131103161762, spb , 0.02399819228877046
-cycle , 1 , cPeriod , 6 , count , 1 , procDur , 8027705.0, procTime , 1.0E7, lI , 1.2456860335550446, spb , 0.09540859523115582
-cycle , 4 , cPeriod , 3 , count , 11 , procDur , 8500104.0, procTime , 6666666.0, lI , 0.7843040508680835, spb , -0.10551554188763687
-cycle , 3 , cPeriod , 4 , count , 5 , procDur , 1.0747023E7, procTime , 7142857.0, lI , 0.6646358717200103, spb , -0.17741622268770585
-cycle , 2 , cPeriod , 5 , count , 4 , procDur , 1.1339708E7, procTime , 7692307.0, lI , 0.6783514178671973, spb , -0.16854526291482877
-cycle , 0 , cPeriod , 6 , count , 4 , procDur , 9414161.0, procTime , 1.0E7, lI , 1.0622295497177072, spb , 0.02621837870695437
-cycle , 2 , cPeriod , 5 , count , 5 , procDur , 8000620.0, procTime , 7692307.0, lI , 0.9614638615507298, spb , -0.01706703490345975
-cycle , 1 , cPeriod , 6 , count , 2 , procDur , 1.0435229E7, procTime , 1.0E7, lI , 0.9582923383856742, spb , -0.01850198405265636
-cycle , 4 , cPeriod , 3 , count , 12 , procDur , 9447576.0, procTime , 6666666.0, lI , 0.7056483059781684, spb , -0.15141169672307137
-cycle , 3 , cPeriod , 4 , count , 6 , procDur , 1.0052692E7, procTime , 7142857.0, lI , 0.7105417136026847, spb , -0.14841042096565937
-cycle , 0 , cPeriod , 6 , count , 5 , procDur , 9865170.0, procTime , 1.0E7, lI , 1.0136672758806995, spb , 0.005895426435531791
-cycle , 2 , cPeriod , 5 , count , 6 , procDur , 9764246.0, procTime , 7692307.0, lI , 0.7878034822146022, spb , -0.1035821038731017
-cycle , 1 , cPeriod , 6 , count , 3 , procDur , 1.1520308E7, procTime , 1.0E7, lI , 0.8680323477462581, spb , -0.06146409027749802
-cycle , 4 , cPeriod , 3 , count , 13 , procDur , 1.1296401E7, procTime , 6666666.0, lI , 0.5901584053186497, spb , -0.22903140306575132
-cycle , 3 , cPeriod , 4 , count , 7 , procDur , 1.081478E7, procTime , 7142857.0, lI , 0.6604717802858681, spb , -0.18014573358003103
-cycle , 0 , cPeriod , 6 , count , 6 , procDur , 1.1204433E7, procTime , 1.0E7, lI , 0.8925038866313003, spb , -0.04938988396775616
-cycle , 2 , cPeriod , 5 , count , 7 , procDur , 1.2991423E7, procTime , 7692307.0, lI , 0.592106576777617, spb , -0.22760011499912647
-cycle , 1 , cPeriod , 6 , count , 4 , procDur , 1.2723234E7, procTime , 1.0E7, lI , 0.7859636944506404, spb , -0.10459751460169699
-cycle , 3 , cPeriod , 4 , count , 8 , procDur , 1.1990688E7, procTime , 7142857.0, lI , 0.595700346802452, spb , -0.22497214706525237
-cycle , 4 , cPeriod , 3 , count , 14 , procDur , 1.2629926E7, procTime , 6666666.0, lI , 0.5278467981522615, spb , -0.27749210847309813
-cycle , 0 , cPeriod , 6 , count , 7 , procDur , 1.6838239E7, procTime , 1.0E7, lI , 0.5938863321752352, spb , -0.2262966695523756
-cycle , 2 , cPeriod , 5 , count , 8 , procDur , 1.076689E7, procTime , 7692307.0, lI , 0.7144409388412067, spb , -0.14603366749657926
-cycle , 3 , cPeriod , 4 , count , 9 , procDur , 1.1325619E7, procTime , 7142857.0, lI , 0.6306813782098798, spb , -0.20018999199714552
-cycle , 1 , cPeriod , 6 , count , 5 , procDur , 1.1454085E7, procTime , 1.0E7, lI , 0.8730509682790026, spb , -0.05896040165962135
-cycle , 4 , cPeriod , 4 , count , 0 , procDur , 1.2580257E7, procTime , 7142857.0, lI , 0.567783074701892, spb , -0.24581755769450445
-cycle , 0 , cPeriod , 6 , count , 8 , procDur , 1.2181048E7, procTime , 1.0E7, lI , 0.8209474258700893, spb , -0.08568465455608446
-cycle , 2 , cPeriod , 5 , count , 9 , procDur , 1.1325433E7, procTime , 7692307.0, lI , 0.6792064374050865, spb , -0.16799820657408893
-cycle , 1 , cPeriod , 6 , count , 6 , procDur , 1.0477319E7, procTime , 1.0E7, lI , 0.954442639381315, spb , -0.02025016695468106
-cycle , 4 , cPeriod , 4 , count , 1 , procDur , 1.1204795E7, procTime , 7142857.0, lI , 0.6374821672328678, spb , -0.19553195956959207
-cycle , 3 , cPeriod , 4 , count , 10 , procDur , 1.3993231E7, procTime , 7142857.0, lI , 0.5104508744263566, spb , -0.29204604788099786
-cycle , 0 , cPeriod , 6 , count , 9 , procDur , 9720031.0, procTime , 1.0E7, lI , 1.0288033031993415, spb , 0.012332349980364261
-cycle , 2 , cPeriod , 5 , count , 10 , procDur , 1.0758237E7, procTime , 7692307.0, lI , 0.7150155736483589, spb , -0.14568449879208456
-cycle , 1 , cPeriod , 6 , count , 7 , procDur , 1.0197363E7, procTime , 1.0E7, lI , 0.9806456826142209, spb , -0.008487879348907205
-cycle , 4 , cPeriod , 4 , count , 2 , procDur , 1.0706902E7, procTime , 7142857.0, lI , 0.6671264012690132, spb , -0.1757918719713638
-cycle , 3 , cPeriod , 4 , count , 11 , procDur , 9976856.0, procTime , 7142857.0, lI , 0.7159426777333461, spb , -0.14512174827968038
-cycle , 0 , cPeriod , 7 , count , 0 , procDur , 1.1111672E7, procTime , 1.25E7, lI , 1.1249432128666146, spb , 0.05113059981525743
-cycle , 2 , cPeriod , 5 , count , 11 , procDur , 9618942.0, procTime , 7692307.0, lI , 0.7997040630871878, spb , -0.0970706974404557
-cycle , 1 , cPeriod , 6 , count , 8 , procDur , 9245229.0, procTime , 1.0E7, lI , 1.0816389729232234, spb , 0.03408232710030429
-cycle , 3 , cPeriod , 4 , count , 12 , procDur , 1.0021537E7, procTime , 7142857.0, lI , 0.712750648927405, spb , -0.147062378612732
-cycle , 4 , cPeriod , 4 , count , 3 , procDur , 1.0804729E7, procTime , 7142857.0, lI , 0.6610861780984975, spb , -0.17974192291512703
-cycle , 0 , cPeriod , 7 , count , 1 , procDur , 1.065793E7, procTime , 1.25E7, lI , 1.1728356256796582, spb , 0.06923714948762265
-cycle , 2 , cPeriod , 5 , count , 12 , procDur , 1.1864297E7, procTime , 7692307.0, lI , 0.64835758916015, spb , -0.18818540128206432
-cycle , 1 , cPeriod , 6 , count , 9 , procDur , 1.257685E7, procTime , 1.0E7, lI , 0.7951116535539503, spb , -0.09957188125854188
-cycle , 3 , cPeriod , 4 , count , 13 , procDur , 1.0152493E7, procTime , 7142857.0, lI , 0.7035569490173498, spb , -0.15270074308641687
-cycle , 4 , cPeriod , 4 , count , 4 , procDur , 1.0592999E7, procTime , 7142857.0, lI , 0.6742997898895299, spb , -0.17114697564863351
-cycle , 0 , cPeriod , 7 , count , 2 , procDur , 1.0869512E7, procTime , 1.25E7, lI , 1.1500056304275665, spb , 0.060699966664600286
-cycle , 2 , cPeriod , 6 , count , 0 , procDur , 1.2321357E7, procTime , 1.0E7, lI , 0.8115989172296525, spb , -0.09065854103925935
-cycle , 1 , cPeriod , 7 , count , 0 , procDur , 1.1729046E7, procTime , 1.25E7, lI , 1.0657303245293777, spb , 0.027647323465829057
-cycle , 3 , cPeriod , 5 , count , 0 , procDur , 1.4161015E7, procTime , 7692307.0, lI , 0.5432030825474021, spb , -0.26503777420338603
-cycle , 4 , cPeriod , 4 , count , 5 , procDur , 1.4019393E7, procTime , 7142857.0, lI , 0.5094983070950362, spb , -0.29285725468111834
-cycle , 0 , cPeriod , 7 , count , 3 , procDur , 1.3071555E7, procTime , 1.25E7, lI , 0.9562749037891819, spb , -0.01941724157700665
-cycle , 2 , cPeriod , 6 , count , 1 , procDur , 1.2198699E7, procTime , 1.0E7, lI , 0.8197595497683811, spb , -0.08631351532641825
-cycle , 1 , cPeriod , 7 , count , 1 , procDur , 1.2537007E7, procTime , 1.25E7, lI , 0.9970481790430523, spb , -0.0012838553423121456
-cycle , 3 , cPeriod , 5 , count , 1 , procDur , 1.0514726E7, procTime , 7692307.0, lI , 0.7315746506375915, spb , -0.13574135141725316
-cycle , 4 , cPeriod , 4 , count , 6 , procDur , 1.1050132E7, procTime , 7142857.0, lI , 0.6464046764328245, spb , -0.18949551030645265
-cycle , 1 , cPeriod , 7 , count , 2 , procDur , 9114067.0, procTime , 1.25E7, lI , 1.3715062660829682, spb , 0.13719779613233804
-cycle , 0 , cPeriod , 7 , count , 4 , procDur , 1.3751895E7, procTime , 1.25E7, lI , 0.9089656370994689, spb , -0.04145253471001112
-cycle , 3 , cPeriod , 5 , count , 2 , procDur , 8480518.0, procTime , 7692307.0, lI , 0.9070562670817985, spb , -0.04236577167728884
-cycle , 2 , cPeriod , 6 , count , 2 , procDur , 1.1001891E7, procTime , 1.0E7, lI , 0.908934654960679, spb , -0.04146733791123624
-cycle , 4 , cPeriod , 4 , count , 7 , procDur , 1.1132198E7, procTime , 7142857.0, lI , 0.641639413887536, spb , -0.19270896656284617
-cycle , 2 , cPeriod , 6 , count , 3 , procDur , 7997534.0, procTime , 1.0E7, lI , 1.250385431309201, spb , 0.09704390491925426
-cycle , 1 , cPeriod , 7 , count , 3 , procDur , 1.0302667E7, procTime , 1.25E7, lI , 1.2132780764437014, spb , 0.08396035010352822
-cycle , 0 , cPeriod , 7 , count , 5 , procDur , 1.0234397E7, procTime , 1.25E7, lI , 1.2213714203191453, spb , 0.08684775343378906
-cycle , 3 , cPeriod , 5 , count , 3 , procDur , 9791109.0, procTime , 7692307.0, lI , 0.7856420554607246, spb , -0.10477527679230166
-cycle , 4 , cPeriod , 4 , count , 8 , procDur , 1.0693428E7, procTime , 7142857.0, lI , 0.6679669980477729, spb , -0.1752449939912205
-cycle , 2 , cPeriod , 6 , count , 4 , procDur , 1.0992787E7, procTime , 1.0E7, lI , 0.9096874159391972, spb , -0.04110781301261781
-cycle , 1 , cPeriod , 7 , count , 4 , procDur , 1.0234516E7, procTime , 1.25E7, lI , 1.2213572190419166, spb , 0.08684270372320144
-cycle , 0 , cPeriod , 7 , count , 6 , procDur , 1.0940507E7, procTime , 1.25E7, lI , 1.1425430283989582, spb , 0.05787256466692086
-cycle , 3 , cPeriod , 5 , count , 4 , procDur , 1.04004E7, procTime , 7692307.0, lI , 0.7396164570593439, spb , -0.13099343400482613
-cycle , 4 , cPeriod , 4 , count , 9 , procDur , 1.1387257E7, procTime , 7142857.0, lI , 0.6272675675977103, spb , -0.20254716675483173
-cycle , 2 , cPeriod , 6 , count , 5 , procDur , 9554258.0, procTime , 1.0E7, lI , 1.0466537537504221, spb , 0.01980303535081612
-cycle , 1 , cPeriod , 7 , count , 5 , procDur , 9611136.0, procTime , 1.25E7, lI , 1.3005746667199383, spb , 0.11413529033704124
-cycle , 3 , cPeriod , 5 , count , 5 , procDur , 9500059.0, procTime , 7692307.0, lI , 0.8097114975812255, spb , -0.09166969387112288
-cycle , 0 , cPeriod , 7 , count , 7 , procDur , 9835954.0, procTime , 1.25E7, lI , 1.270847748982966, spb , 0.10409352401019367
-cycle , 4 , cPeriod , 4 , count , 10 , procDur , 1.1570682E7, procTime , 7142857.0, lI , 0.6173237670865036, spb , -0.20948700228800302
-cycle , 1 , cPeriod , 7 , count , 6 , procDur , 1.0613892E7, procTime , 1.25E7, lI , 1.1777018270018198, spb , 0.0710353487878643
-cycle , 2 , cPeriod , 6 , count , 6 , procDur , 1.1246303E7, procTime , 1.0E7, lI , 0.8891810935558112, spb , -0.05100978017421307
-cycle , 3 , cPeriod , 5 , count , 6 , procDur , 1.0842121E7, procTime , 7692307.0, lI , 0.7094835964291488, spb , -0.14905764116867534
-cycle , 0 , cPeriod , 8 , count , 0 , procDur , 1.0947607E7, procTime , 1.6666666E7, lI , 1.5224026584074493, spb , 0.18252953364120644
-cycle , 4 , cPeriod , 4 , count , 11 , procDur , 1.1920076E7, procTime , 7142857.0, lI , 0.5992291492101225, spb , -0.22240706875118121
-cycle , 3 , cPeriod , 5 , count , 7 , procDur , 1.0341073E7, procTime , 7692307.0, lI , 0.7438596555695913, spb , -0.12850899531587287
-cycle , 0 , cPeriod , 8 , count , 1 , procDur , 1.0658211E7, procTime , 1.6666666E7, lI , 1.5637395431559762, spb , 0.19416441855129776
-cycle , 2 , cPeriod , 6 , count , 7 , procDur , 1.2442015E7, procTime , 1.0E7, lI , 0.8037283350003999, spb , -0.09489072058913767
-cycle , 1 , cPeriod , 7 , count , 7 , procDur , 1.3022202E7, procTime , 1.25E7, lI , 0.9598991015497993, spb , -0.017774414817821306
-cycle , 4 , cPeriod , 4 , count , 12 , procDur , 1.0830813E7, procTime , 7142857.0, lI , 0.6594940749138591, spb , -0.1807891019277373
-cycle , 3 , cPeriod , 5 , count , 8 , procDur , 9173240.0, procTime , 7692307.0, lI , 0.838559440285003, spb , -0.07646614752081758
-cycle , 2 , cPeriod , 6 , count , 8 , procDur , 1.0164598E7, procTime , 1.0E7, lI , 0.983806737856234, spb , -0.007090207387826153
-cycle , 0 , cPeriod , 8 , count , 2 , procDur , 1.1481382E7, procTime , 1.6666666E7, lI , 1.4516254227931795, spb , 0.16185456553713679
-cycle , 1 , cPeriod , 8 , count , 0 , procDur , 1.1055047E7, procTime , 1.6666666E7, lI , 1.5076069780616943, spb , 0.17828813894384135
-cycle , 3 , cPeriod , 5 , count , 9 , procDur , 9695838.0, procTime , 7692307.0, lI , 0.7933617496496951, spb , -0.10052874199713047
-cycle , 4 , cPeriod , 4 , count , 13 , procDur , 1.0733178E7, procTime , 7142857.0, lI , 0.6654932024792657, spb , -0.17685637616349445
-cycle , 2 , cPeriod , 6 , count , 9 , procDur , 8483800.0, procTime , 1.0E7, lI , 1.1787170843254202, spb , 0.07140957824130713
-cycle , 0 , cPeriod , 8 , count , 3 , procDur , 1.1370003E7, procTime , 1.6666666E7, lI , 1.4658453476221598, spb , 0.16608815296728402
-cycle , 1 , cPeriod , 8 , count , 1 , procDur , 1.0757366E7, procTime , 1.6666666E7, lI , 1.549325922349393, spb , 0.19014278728064424
-cycle , 3 , cPeriod , 5 , count , 10 , procDur , 1.029163E7, procTime , 7692307.0, lI , 0.7474333025963817, spb , -0.12642755565466118
-cycle , 4 , cPeriod , 5 , count , 0 , procDur , 9988766.0, procTime , 7692307.0, lI , 0.7700958256505358, spb , -0.11345523072115402
-cycle , 2 , cPeriod , 7 , count , 0 , procDur , 1.0019536E7, procTime , 1.25E7, lI , 1.2475627613893499, spb , 0.09606240298436534
-cycle , 0 , cPeriod , 8 , count , 4 , procDur , 1.1464663E7, procTime , 1.6666666E7, lI , 1.4537423385231647, spb , 0.16248743893452333
-cycle , 1 , cPeriod , 8 , count , 2 , procDur , 1.2491696E7, procTime , 1.6666666E7, lI , 1.3342196287837937, spb , 0.12522732562085248
-cycle , 2 , cPeriod , 7 , count , 1 , procDur , 1.0027102E7, procTime , 1.25E7, lI , 1.24662140666366, spb , 0.0957345802136743
-cycle , 3 , cPeriod , 5 , count , 11 , procDur , 1.2027107E7, procTime , 7692307.0, lI , 0.6395808235513328, spb , -0.19410456611199636
-cycle , 4 , cPeriod , 5 , count , 1 , procDur , 1.2533451E7, procTime , 7692307.0, lI , 0.6137421369421718, spb , -0.21201405886816163
-cycle , 1 , cPeriod , 8 , count , 3 , procDur , 1.0585984E7, procTime , 1.6666666E7, lI , 1.5744087654014969, spb , 0.1971174989956154
-cycle , 0 , cPeriod , 8 , count , 5 , procDur , 1.1765694E7, procTime , 1.6666666E7, lI , 1.4165476341642065, spb , 0.15123118309707478
-cycle , 2 , cPeriod , 7 , count , 2 , procDur , 1.1998218E7, procTime , 1.25E7, lI , 1.0418213771411722, spb , 0.017793264480053608
-cycle , 3 , cPeriod , 5 , count , 12 , procDur , 1.1029783E7, procTime , 7692307.0, lI , 0.6974123606964888, spb , -0.1565103596060053
-cycle , 4 , cPeriod , 5 , count , 2 , procDur , 1.0789946E7, procTime , 7692307.0, lI , 0.712914318570269, spb , -0.1469626625859183
-cycle , 0 , cPeriod , 9 , count , 0 , procDur , 1.1351117E7, procTime , 2.0E7, lI , 1.7619411375990575, spb , 0.24599139553861313
-cycle , 1 , cPeriod , 8 , count , 4 , procDur , 1.2020918E7, procTime , 1.6666666E7, lI , 1.3864719815907571, spb , 0.1419110975969129
-cycle , 3 , cPeriod , 6 , count , 0 , procDur , 8928232.0, procTime , 1.0E7, lI , 1.1200425795387037, spb , 0.0492345331230383
-cycle , 2 , cPeriod , 7 , count , 3 , procDur , 1.041535E7, procTime , 1.25E7, lI , 1.2001516991747756, spb , 0.07923614433978253
-cycle , 4 , cPeriod , 5 , count , 3 , procDur , 1.0815211E7, procTime , 7692307.0, lI , 0.7112489067480977, spb , -0.14797838814503889
-cycle , 0 , cPeriod , 9 , count , 1 , procDur , 1.0703681E7, procTime , 2.0E7, lI , 1.8685160740496658, spb , 0.271496838252579
-cycle , 1 , cPeriod , 8 , count , 5 , procDur , 1.0704348E7, procTime , 1.6666666E7, lI , 1.5569996416409482, spb , 0.19228851261090985
-cycle , 3 , cPeriod , 6 , count , 1 , procDur , 1.0011555E7, procTime , 1.0E7, lI , 0.9988458336392299, spb , -5.015375662816669E-4
-cycle , 2 , cPeriod , 7 , count , 4 , procDur , 1.1380857E7, procTime , 1.25E7, lI , 1.0983355647118667, spb , 0.04073504652393194
-cycle , 4 , cPeriod , 5 , count , 4 , procDur , 1.130135E7, procTime , 7692307.0, lI , 0.6806538156945852, spb , -0.16707371651668726
-cycle , 0 , cPeriod , 9 , count , 2 , procDur , 1.0390921E7, procTime , 2.0E7, lI , 1.9247571990971735, spb , 0.2843759526793784
-cycle , 1 , cPeriod , 9 , count , 0 , procDur , 1.0472011E7, procTime , 2.0E7, lI , 1.9098528448833754, spb , 0.28099990592983876
-cycle , 3 , cPeriod , 6 , count , 2 , procDur , 9085619.0, procTime , 1.0E7, lI , 1.1006404736980497, spb , 0.041645479018962636
-cycle , 2 , cPeriod , 7 , count , 5 , procDur , 1.0823371E7, procTime , 1.25E7, lI , 1.1549082074337098, spb , 0.06254746770069916
-cycle , 4 , cPeriod , 5 , count , 5 , procDur , 1.0652161E7, procTime , 7692307.0, lI , 0.7221358182626042, spb , -0.14138111326869246
-cycle , 1 , cPeriod , 9 , count , 1 , procDur , 1.0136992E7, procTime , 2.0E7, lI , 1.9729718638428442, spb , 0.29512089190960455
-cycle , 0 , cPeriod , 9 , count , 3 , procDur , 1.1383405E7, procTime , 2.0E7, lI , 1.756943550721423, spb , 0.24475780816346615
-cycle , 3 , cPeriod , 6 , count , 3 , procDur , 1.4863503E7, procTime , 1.0E7, lI , 0.6727889112008119, spb , -0.1721211751233202
-cycle , 2 , cPeriod , 7 , count , 6 , procDur , 1.118017E7, procTime , 1.25E7, lI , 1.118050977757941, spb , 0.048461605745611716
-cycle , 4 , cPeriod , 5 , count , 6 , procDur , 1.1172454E7, procTime , 7692307.0, lI , 0.6885064821032156, spb , -0.1620919666221545
-cycle , 1 , cPeriod , 9 , count , 2 , procDur , 1.0079482E7, procTime , 2.0E7, lI , 1.9842289514481002, spb , 0.29759178203881625
-cycle , 0 , cPeriod , 9 , count , 4 , procDur , 1.1223045E7, procTime , 2.0E7, lI , 1.7820475637405, spb , 0.2509192913924199
-cycle , 3 , cPeriod , 6 , count , 4 , procDur , 1.1523549E7, procTime , 1.0E7, lI , 0.8677882135095707, spb , -0.061586252849946656
-cycle , 4 , cPeriod , 5 , count , 7 , procDur , 1.114541E7, procTime , 7692307.0, lI , 0.6901771222413532, spb , -0.1610394406530645
-cycle , 2 , cPeriod , 7 , count , 7 , procDur , 1.1835643E7, procTime , 1.25E7, lI , 1.0561318890743832, spb , 0.02371815600140664
-cycle , 1 , cPeriod , 9 , count , 3 , procDur , 9890939.0, procTime , 2.0E7, lI , 2.022052709050172, spb , 0.3057924722002242
-cycle , 0 , cPeriod , 10 , count , 0 , procDur , 9818798.0, procTime , 1.6666666E7, lI , 1.6974242672066377, spb , 0.22979040677111487
-cycle , 3 , cPeriod , 6 , count , 5 , procDur , 1.0334577E7, procTime , 1.0E7, lI , 0.9676254770756462, spb , -0.014292705411744412
-cycle , 2 , cPeriod , 8 , count , 0 , procDur , 9796784.0, procTime , 1.6666666E7, lI , 1.7012384880589386, spb , 0.23076519943731647
-cycle , 4 , cPeriod , 5 , count , 8 , procDur , 1.0493544E7, procTime , 7692307.0, lI , 0.7330513885489973, spb , -0.134865579272949
-cycle , 1 , cPeriod , 9 , count , 4 , procDur , 1.0440407E7, procTime , 2.0E7, lI , 1.9156341318877703, spb , 0.2823125664988106
-cycle , 0 , cPeriod , 10 , count , 1 , procDur , 9718718.0, procTime , 1.6666666E7, lI , 1.714903755824585, spb , 0.23423975149996548
-cycle , 2 , cPeriod , 8 , count , 1 , procDur , 8455891.0, procTime , 1.6666666E7, lI , 1.9710123983386256, spb , 0.294689356148096
-cycle , 4 , cPeriod , 5 , count , 9 , procDur , 8251330.0, procTime , 7692307.0, lI , 0.9322505583948285, spb , -0.030467347835016555
-cycle , 3 , cPeriod , 6 , count , 6 , procDur , 9256178.0, procTime , 1.0E7, lI , 1.0803595177188685, spb , 0.033568302319652125
-cycle , 1 , cPeriod , 10 , count , 0 , procDur , 1.0845332E7, procTime , 1.6666666E7, lI , 1.536759409486035, spb , 0.1866058809601974
-cycle , 0 , cPeriod , 10 , count , 2 , procDur , 9895729.0, procTime , 1.6666666E7, lI , 1.6842282160313808, spb , 0.22640093885473078
-cycle , 3 , cPeriod , 6 , count , 7 , procDur , 9045730.0, procTime , 1.0E7, lI , 1.105493973399604, spb , 0.043556379364817994
-cycle , 4 , cPeriod , 5 , count , 10 , procDur , 9571814.0, procTime , 7692307.0, lI , 0.8036415041077898, spb , -0.09493764218320826
-cycle , 2 , cPeriod , 8 , count , 2 , procDur , 1.0539674E7, procTime , 1.6666666E7, lI , 1.5813265192073303, spb , 0.1990215542134631
-cycle , 1 , cPeriod , 10 , count , 1 , procDur , 1.1380454E7, procTime , 1.6666666E7, lI , 1.4644992194511748, spb , 0.16568914454739692
-cycle , 0 , cPeriod , 10 , count , 3 , procDur , 1.1473463E7, procTime , 1.6666666E7, lI , 1.4526273366637432, spb , 0.16215421279144207
-cycle , 3 , cPeriod , 6 , count , 8 , procDur , 9771787.0, procTime , 1.0E7, lI , 1.0233542749140971, spb , 0.01002600810597109
-cycle , 4 , cPeriod , 5 , count , 11 , procDur , 9871617.0, procTime , 7692307.0, lI , 0.7792347494843044, spb , -0.10833168860790703
-cycle , 2 , cPeriod , 8 , count , 3 , procDur , 9578403.0, procTime , 1.6666666E7, lI , 1.7400255554083495, spb , 0.24055562672589126
-cycle , 0 , cPeriod , 10 , count , 4 , procDur , 1.149562E7, procTime , 1.6666666E7, lI , 1.4498274995172074, spb , 0.16131633294919612
-cycle , 1 , cPeriod , 10 , count , 2 , procDur , 1.1855227E7, procTime , 1.6666666E7, lI , 1.4058495885401434, spb , 0.14793885812239416
-cycle , 3 , cPeriod , 6 , count , 9 , procDur , 9714708.0, procTime , 1.0E7, lI , 1.029367017516121, spb , 0.012570248681754357
-cycle , 2 , cPeriod , 8 , count , 4 , procDur , 9316220.0, procTime , 1.6666666E7, lI , 1.7889944634197132, spb , 0.2526089965148364
-cycle , 4 , cPeriod , 5 , count , 12 , procDur , 1.096444E7, procTime , 7692307.0, lI , 0.701568616363444, spb , -0.15392984673013865
-cycle , 1 , cPeriod , 10 , count , 3 , procDur , 9617426.0, procTime , 1.6666666E7, lI , 1.7329653485246468, spb , 0.23878987887376113
-cycle , 3 , cPeriod , 7 , count , 0 , procDur , 1.0325445E7, procTime , 1.25E7, lI , 1.2106015769780383, spb , 0.08300123530626562
-cycle , 2 , cPeriod , 8 , count , 5 , procDur , 1.1004207E7, procTime , 1.6666666E7, lI , 1.5145721995233277, spb , 0.18028998094203397
-cycle , 0 , cPeriod , 10 , count , 5 , procDur , 1.2734299E7, procTime , 1.6666666E7, lI , 1.3088012147351025, spb , 0.11687368940831988
-cycle , 4 , cPeriod , 6 , count , 0 , procDur , 1.0798432E7, procTime , 1.0E7, lI , 0.9260603761731333, spb , -0.03336069778453679
-cycle , 1 , cPeriod , 10 , count , 4 , procDur , 9561815.0, procTime , 1.6666666E7, lI , 1.7430441814655482, spb , 0.241308395442471
-cycle , 0 , cPeriod , 11 , count , 0 , procDur , 8240905.0, procTime , 1.4285714E7, lI , 1.7335127634646923, spb , 0.23892704361680514
-cycle , 4 , cPeriod , 6 , count , 1 , procDur , 9104879.0, procTime , 1.0E7, lI , 1.0983122345722551, spb , 0.04072582142111937
-cycle , 2 , cPeriod , 9 , count , 0 , procDur , 1.0081201E7, procTime , 2.0E7, lI , 1.9838906098588849, spb , 0.2975177218280386
-cycle , 3 , cPeriod , 7 , count , 1 , procDur , 1.1789283E7, procTime , 1.25E7, lI , 1.060285006306151, spb , 0.02542262000901112
-cycle , 1 , cPeriod , 10 , count , 5 , procDur , 1.006609E7, procTime , 1.6666666E7, lI , 1.655723920608697, spb , 0.21898792317842566
-cycle , 4 , cPeriod , 6 , count , 2 , procDur , 9115196.0, procTime , 1.0E7, lI , 1.0970691140377014, spb , 0.04023398846777839
-cycle , 2 , cPeriod , 9 , count , 1 , procDur , 8993640.0, procTime , 2.0E7, lI , 2.22379370310575, spb , 0.3470944961481549
-cycle , 0 , cPeriod , 11 , count , 1 , procDur , 1.0826152E7, procTime , 1.4285714E7, lI , 1.3195560158401618, spb , 0.12042783097434766
-cycle , 3 , cPeriod , 7 , count , 2 , procDur , 1.1174021E7, procTime , 1.25E7, lI , 1.118666234831669, spb , 0.048700529787781395
-cycle , 1 , cPeriod , 11 , count , 0 , procDur , 1.1014131E7, procTime , 1.4285714E7, lI , 1.2970350543315674, spb , 0.11295171370708718
-cycle , 4 , cPeriod , 6 , count , 3 , procDur , 1.0835036E7, procTime , 1.0E7, lI , 0.9229318665853994, spb , -0.034830358625414566
-cycle , 0 , cPeriod , 11 , count , 2 , procDur , 1.078626E7, procTime , 1.4285714E7, lI , 1.3244362735554307, spb , 0.12203106666568021
-cycle , 2 , cPeriod , 9 , count , 2 , procDur , 1.1658089E7, procTime , 2.0E7, lI , 1.7155470334803586, spb , 0.2344026291837846
-cycle , 3 , cPeriod , 7 , count , 3 , procDur , 1.1706623E7, procTime , 1.25E7, lI , 1.0677716366197152, spb , 0.028478380444771103
-cycle , 1 , cPeriod , 11 , count , 1 , procDur , 1.0571831E7, procTime , 1.4285714E7, lI , 1.3512998836247003, spb , 0.1307517393632687
-cycle , 4 , cPeriod , 6 , count , 4 , procDur , 1.2618049E7, procTime , 1.0E7, lI , 0.7925155465793483, spb , -0.10099220958037003
-cycle , 0 , cPeriod , 11 , count , 3 , procDur , 1.2436528E7, procTime , 1.4285714E7, lI , 1.148689891583889, spb , 0.06020279931349459
-cycle , 2 , cPeriod , 9 , count , 3 , procDur , 1.2052811E7, procTime , 2.0E7, lI , 1.659363944228446, spb , 0.21994164921635825
-cycle , 3 , cPeriod , 7 , count , 4 , procDur , 1.226505E7, procTime , 1.25E7, lI , 1.0191560572521108, spb , 0.008240690006635739
-cycle , 1 , cPeriod , 11 , count , 2 , procDur , 1.2544332E7, procTime , 1.4285714E7, lI , 1.1388182328082517, spb , 0.056454411710450486
-cycle , 4 , cPeriod , 6 , count , 5 , procDur , 1.0321435E7, procTime , 1.0E7, lI , 0.9688575280472144, spb , -0.013740081909077417
-cycle , 2 , cPeriod , 9 , count , 4 , procDur , 1.0233115E7, procTime , 2.0E7, lI , 1.9544390930816276, spb , 0.2910221408973454
-cycle , 0 , cPeriod , 11 , count , 4 , procDur , 1.1032719E7, procTime , 1.4285714E7, lI , 1.2948498008514493, spb , 0.11221939432881668
-cycle , 3 , cPeriod , 7 , count , 5 , procDur , 1.1581245E7, procTime , 1.25E7, lI , 1.0793312808769697, spb , 0.033154763844090974
-cycle , 1 , cPeriod , 11 , count , 3 , procDur , 1.0834371E7, procTime , 1.4285714E7, lI , 1.3185549950246305, spb , 0.12009824830286073
-cycle , 2 , cPeriod , 10 , count , 0 , procDur , 1.0291581E7, procTime , 1.6666666E7, lI , 1.6194466136932704, spb , 0.20936663572959824
-cycle , 0 , cPeriod , 11 , count , 5 , procDur , 1.0103616E7, procTime , 1.4285714E7, lI , 1.413920917026142, spb , 0.1504251193196951
-cycle , 4 , cPeriod , 6 , count , 6 , procDur , 1.1244992E7, procTime , 1.0E7, lI , 0.8892847589398019, spb , -0.05095915080258996
-cycle , 3 , cPeriod , 7 , count , 6 , procDur , 1.1548936E7, procTime , 1.25E7, lI , 1.0823507897177713, spb , 0.034368038356877406
-cycle , 1 , cPeriod , 11 , count , 4 , procDur , 1.0085517E7, procTime , 1.4285714E7, lI , 1.4164582737801146, spb , 0.15120378553915517
-cycle , 4 , cPeriod , 6 , count , 7 , procDur , 8710673.0, procTime , 1.0E7, lI , 1.1480169213102134, spb , 0.059948289436077155
-cycle , 0 , cPeriod , 11 , count , 6 , procDur , 9641317.0, procTime , 1.4285714E7, lI , 1.4817181096731908, spb , 0.17076558889435284
-cycle , 2 , cPeriod , 10 , count , 1 , procDur , 1.0438097E7, procTime , 1.6666666E7, lI , 1.5967149950800419, spb , 0.20322740385916413
-cycle , 3 , cPeriod , 7 , count , 7 , procDur , 1.108127E7, procTime , 1.25E7, lI , 1.1280295489596408, spb , 0.052320476227142344
-cycle , 1 , cPeriod , 11 , count , 5 , procDur , 9473235.0, procTime , 1.4285714E7, lI , 1.5080079824896142, spb , 0.17840364043429624
-cycle , 4 , cPeriod , 6 , count , 8 , procDur , 9884382.0, procTime , 1.0E7, lI , 1.0116970388234692, spb , 0.005050478841965296
-cycle , 2 , cPeriod , 10 , count , 2 , procDur , 1.0055906E7, procTime , 1.6666666E7, lI , 1.6574007354484022, spb , 0.21942752721982806
-cycle , 0 , cPeriod , 12 , count , 0 , procDur , 1.041709E7, procTime , 1.0E7, lI , 0.9599609871854807, spb , -0.017746416329543407
-cycle , 3 , cPeriod , 8 , count , 0 , procDur , 1.021887E7, procTime , 1.6666666E7, lI , 1.6309695690423696, spb , 0.2124458579622436
-cycle , 4 , cPeriod , 6 , count , 9 , procDur , 8179401.0, procTime , 1.0E7, lI , 1.2225834141155325, spb , 0.08727849974186756
-cycle , 1 , cPeriod , 11 , count , 6 , procDur , 9545721.0, procTime , 1.4285714E7, lI , 1.4965568342087519, spb , 0.17509321453708804
-cycle , 2 , cPeriod , 10 , count , 3 , procDur , 1.0199549E7, procTime , 1.6666666E7, lI , 1.6340591137902274, spb , 0.213267763535763
-cycle , 0 , cPeriod , 12 , count , 1 , procDur , 1.0908439E7, procTime , 1.0E7, lI , 0.9167214484125548, spb , -0.03776260739950899
-cycle , 3 , cPeriod , 8 , count , 1 , procDur , 9659461.0, procTime , 1.6666666E7, lI , 1.7254240169301371, spb , 0.23689583887842225
-cycle , 1 , cPeriod , 12 , count , 0 , procDur , 9200957.0, procTime , 1.0E7, lI , 1.0868434663915938, spb , 0.036166998936626005
-cycle , 4 , cPeriod , 7 , count , 0 , procDur , 1.0375229E7, procTime , 1.25E7, lI , 1.204792684575926, spb , 0.08091232185633195
-cycle , 0 , cPeriod , 12 , count , 2 , procDur , 1.0909074E7, procTime , 1.0E7, lI , 0.9166680875022023, spb , -0.037787887732431136
-cycle , 2 , cPeriod , 10 , count , 4 , procDur , 1.1939565E7, procTime , 1.6666666E7, lI , 1.3959190305509455, spb , 0.14486022802585447
-cycle , 3 , cPeriod , 8 , count , 2 , procDur , 1.1150856E7, procTime , 1.6666666E7, lI , 1.4946535046278062, spb , 0.17454052478800797
-cycle , 4 , cPeriod , 7 , count , 1 , procDur , 1.0979443E7, procTime , 1.25E7, lI , 1.138491269548009, spb , 0.05632970460275406
-cycle , 1 , cPeriod , 12 , count , 1 , procDur , 1.1878897E7, procTime , 1.0E7, lI , 0.8418290014636881, spb , -0.07477611665085097
-cycle , 0 , cPeriod , 12 , count , 3 , procDur , 9954583.0, procTime , 1.0E7, lI , 1.0045624211481285, spb , 0.001976927961240678
-cycle , 2 , cPeriod , 10 , count , 5 , procDur , 9990061.0, procTime , 1.6666666E7, lI , 1.6683247479670045, spb , 0.22228059217850285
-cycle , 3 , cPeriod , 8 , count , 3 , procDur , 1.0865654E7, procTime , 1.6666666E7, lI , 1.5338852129839584, spb , 0.18579286076491316
-cycle , 4 , cPeriod , 7 , count , 2 , procDur , 1.0296907E7, procTime , 1.25E7, lI , 1.213956773621438, spb , 0.08420322272613273
-cycle , 1 , cPeriod , 12 , count , 2 , procDur , 1.0899144E7, procTime , 1.0E7, lI , 0.9175032461264848, spb , -0.03739239053927793
-cycle , 2 , cPeriod , 11 , count , 0 , procDur , 9553461.0, procTime , 1.4285714E7, lI , 1.4953443574009462, spb , 0.17474121627098976
-cycle , 0 , cPeriod , 12 , count , 4 , procDur , 1.0166623E7, procTime , 1.0E7, lI , 0.983610782065982, spb , -0.007176719292719846
-cycle , 1 , cPeriod , 12 , count , 3 , procDur , 8696988.0, procTime , 1.0E7, lI , 1.1498233641348017, spb , 0.06063112915925739
-cycle , 4 , cPeriod , 7 , count , 3 , procDur , 1.1411453E7, procTime , 1.25E7, lI , 1.0953907447193623, spb , 0.03956906712563984
-cycle , 3 , cPeriod , 8 , count , 4 , procDur , 1.1707701E7, procTime , 1.6666666E7, lI , 1.423564370152603, spb , 0.1533771096775807
-cycle , 0 , cPeriod , 12 , count , 5 , procDur , 8451797.0, procTime , 1.0E7, lI , 1.1831803343123362, spb , 0.07305094262286875
-cycle , 2 , cPeriod , 11 , count , 1 , procDur , 9380817.0, procTime , 1.4285714E7, lI , 1.5228645863148167, spb , 0.18266128742609553
-cycle , 1 , cPeriod , 12 , count , 4 , procDur , 8651389.0, procTime , 1.0E7, lI , 1.1558837546202119, spb , 0.06291415997941704
-cycle , 3 , cPeriod , 8 , count , 5 , procDur , 8977980.0, procTime , 1.6666666E7, lI , 1.856393754497114, spb , 0.2686700986437804
-cycle , 4 , cPeriod , 7 , count , 4 , procDur , 9262708.0, procTime , 1.25E7, lI , 1.3494973608150014, spb , 0.13017203955233358
-cycle , 0 , cPeriod , 12 , count , 6 , procDur , 1.0943234E7, procTime , 1.0E7, lI , 0.9138066498440954, spb , -0.03914568587312615
-cycle , 2 , cPeriod , 11 , count , 2 , procDur , 1.223731E7, procTime , 1.4285714E7, lI , 1.1673900554942223, spb , 0.067215989417537
-cycle , 3 , cPeriod , 9 , count , 0 , procDur , 9702563.0, procTime , 2.0E7, lI , 2.061311016480903, spb , 0.31414352431237375
-cycle , 1 , cPeriod , 12 , count , 5 , procDur , 1.1797004E7, procTime , 1.0E7, lI , 0.8476728498184793, spb , -0.07177172667263702
-cycle , 4 , cPeriod , 7 , count , 5 , procDur , 1.0439526E7, procTime , 1.25E7, lI , 1.1973723711210642, spb , 0.07822923275730363
-cycle , 0 , cPeriod , 12 , count , 7 , procDur , 9600281.0, procTime , 1.0E7, lI , 1.0416361771077325, spb , 0.01771605498507832
-cycle , 2 , cPeriod , 11 , count , 3 , procDur , 1.0324162E7, procTime , 1.4285714E7, lI , 1.383716567020161, spb , 0.1410471407094947
-cycle , 1 , cPeriod , 12 , count , 6 , procDur , 8535035.0, procTime , 1.0E7, lI , 1.171641358236961, spb , 0.0687946936147777
-cycle , 3 , cPeriod , 9 , count , 1 , procDur , 1.1303373E7, procTime , 2.0E7, lI , 1.7693833513235386, spb , 0.24782193654325524
-cycle , 4 , cPeriod , 7 , count , 6 , procDur , 1.0497785E7, procTime , 1.25E7, lI , 1.1907273772514868, spb , 0.07581233905771868
-cycle , 0 , cPeriod , 12 , count , 8 , procDur , 1.0154269E7, procTime , 1.0E7, lI , 0.9848074735857402, spb , -0.006648664255526459
-cycle , 2 , cPeriod , 11 , count , 4 , procDur , 1.0786471E7, procTime , 1.4285714E7, lI , 1.3244103655403143, spb , 0.12202257111306014
-cycle , 4 , cPeriod , 7 , count , 7 , procDur , 9902932.0, procTime , 1.25E7, lI , 1.2622524319060253, spb , 0.10114621609745052
-cycle , 3 , cPeriod , 9 , count , 2 , procDur , 1.0600942E7, procTime , 2.0E7, lI , 1.8866247924005244, spb , 0.2756855372647906
-cycle , 1 , cPeriod , 12 , count , 7 , procDur , 1.3627339E7, procTime , 1.0E7, lI , 0.7338189796261765, spb , -0.13441105976415352
-cycle , 0 , cPeriod , 12 , count , 9 , procDur , 1.0758253E7, procTime , 1.0E7, lI , 0.9295189469888838, spb , -0.03174175329514213
-cycle , 2 , cPeriod , 11 , count , 5 , procDur , 1.3825654E7, procTime , 1.4285714E7, lI , 1.0332758218887874, spb , 0.014216267245482583
-cycle , 4 , cPeriod , 8 , count , 0 , procDur , 1.1070867E7, procTime , 1.6666666E7, lI , 1.5054526443141265, spb , 0.1776670988480964
-cycle , 3 , cPeriod , 9 , count , 3 , procDur , 1.080816E7, procTime , 2.0E7, lI , 1.8504537312549036, spb , 0.26727823046766325
-cycle , 1 , cPeriod , 12 , count , 8 , procDur , 1.0368343E7, procTime , 1.0E7, lI , 0.9644742655600803, spb , -0.015709355862871154
-cycle , 2 , cPeriod , 11 , count , 6 , procDur , 1.0090019E7, procTime , 1.4285714E7, lI , 1.4158262734688607, spb , 0.1510099672643912
-cycle , 1 , cPeriod , 12 , count , 9 , procDur , 9357049.0, procTime , 1.0E7, lI , 1.0687130098388926, spb , 0.028861096250040703
-cycle , 3 , cPeriod , 9 , count , 4 , procDur , 1.1038957E7, procTime , 2.0E7, lI , 1.811765368775329, spb , 0.2581019540228863
-cycle , 4 , cPeriod , 8 , count , 1 , procDur , 1.1586647E7, procTime , 1.6666666E7, lI , 1.4384373667377628, spb , 0.1578909563393991
-cycle , 2 , cPeriod , 12 , count , 0 , procDur , 9997184.0, procTime , 1.0E7, lI , 1.0002816793208968, spb , 1.2231454880085575E-4
-cycle , 4 , cPeriod , 8 , count , 2 , procDur , 1.0071028E7, procTime , 1.6666666E7, lI , 1.6549120904042764, spb , 0.21877492882693766
-cycle , 3 , cPeriod , 10 , count , 0 , procDur , 1.4044475E7, procTime , 1.6666666E7, lI , 1.186706231454006, spb , 0.07434322287319521
-cycle , 2 , cPeriod , 12 , count , 1 , procDur , 1.1271732E7, procTime , 1.0E7, lI , 0.8871751031695927, spb , -0.051990654311306124
-cycle , 4 , cPeriod , 8 , count , 3 , procDur , 1.1545493E7, procTime , 1.6666666E7, lI , 1.4435646879695825, spb , 0.15943624994086136
-cycle , 3 , cPeriod , 10 , count , 1 , procDur , 9460494.0, procTime , 1.6666666E7, lI , 1.7617120205350798, spb , 0.24593491763215067
-cycle , 2 , cPeriod , 12 , count , 2 , procDur , 1.0637118E7, procTime , 1.0E7, lI , 0.9401042650838319, spb , -0.02682397699666692
-cycle , 4 , cPeriod , 8 , count , 4 , procDur , 1.0503937E7, procTime , 1.6666666E7, lI , 1.586706584397831, spb , 0.2004966239455615
-cycle , 3 , cPeriod , 10 , count , 2 , procDur , 9725236.0, procTime , 1.6666666E7, lI , 1.7137544014356052, spb , 0.2339485831975639
-cycle , 2 , cPeriod , 12 , count , 3 , procDur , 9948971.0, procTime , 1.0E7, lI , 1.0051290731473637, spb , 0.0022218350463802466
-cycle , 4 , cPeriod , 8 , count , 5 , procDur , 8926086.0, procTime , 1.6666666E7, lI , 1.8671863569318063, spb , 0.2711876654306869
-cycle , 3 , cPeriod , 10 , count , 3 , procDur , 8591257.0, procTime , 1.6666666E7, lI , 1.9399566326557336, spb , 0.28779202147206856
-cycle , 2 , cPeriod , 12 , count , 4 , procDur , 9656879.0, procTime , 1.0E7, lI , 1.0355312518671922, spb , 0.015163210239285508
-cycle , 3 , cPeriod , 10 , count , 4 , procDur , 9385048.0, procTime , 1.6666666E7, lI , 1.7758743482185706, spb , 0.24941223407444418
-cycle , 4 , cPeriod , 9 , count , 0 , procDur , 1.0538909E7, procTime , 2.0E7, lI , 1.8977296416545584, spb , 0.2782343411255807
-cycle , 2 , cPeriod , 12 , count , 5 , procDur , 8411311.0, procTime , 1.0E7, lI , 1.1888753132537841, spb , 0.0751363091137647
-cycle , 3 , cPeriod , 10 , count , 5 , procDur , 8336648.0, procTime , 1.6666666E7, lI , 1.9992047163320317, spb , 0.30085726766549253
-cycle , 4 , cPeriod , 9 , count , 1 , procDur , 8190292.0, procTime , 2.0E7, lI , 2.44191537981796, spb , 0.38773061017607735
-cycle , 2 , cPeriod , 12 , count , 6 , procDur , 9114160.0, procTime , 1.0E7, lI , 1.097193817093402, spb , 0.04028335160312299
-cycle , 4 , cPeriod , 9 , count , 2 , procDur , 8621770.0, procTime , 2.0E7, lI , 2.319709294031272, spb , 0.3654335625164623
-cycle , 3 , cPeriod , 11 , count , 0 , procDur , 9130311.0, procTime , 1.4285714E7, lI , 1.564647031190942, spb , 0.19441638041577147
-cycle , 2 , cPeriod , 12 , count , 7 , procDur , 8253747.0, procTime , 1.0E7, lI , 1.211570938629449, spb , 0.0833488475724764
-cycle , 3 , cPeriod , 11 , count , 1 , procDur , 7916916.0, procTime , 1.4285714E7, lI , 1.804454411288436, spb , 0.2563459142835988
-cycle , 4 , cPeriod , 9 , count , 3 , procDur , 9147817.0, procTime , 2.0E7, lI , 2.1863139588384857, spb , 0.3397125276047766
-cycle , 2 , cPeriod , 12 , count , 8 , procDur , 7831087.0, procTime , 1.0E7, lI , 1.276961933892447, spb , 0.10617795118129897
-cycle , 3 , cPeriod , 11 , count , 2 , procDur , 7519177.0, procTime , 1.4285714E7, lI , 1.8999039389550212, spb , 0.27873164314418997
-cycle , 4 , cPeriod , 9 , count , 4 , procDur , 6874190.0, procTime , 2.0E7, lI , 2.9094336932787717, spb , 0.463808463962397
-cycle , 2 , cPeriod , 12 , count , 9 , procDur , 8753129.0, procTime , 1.0E7, lI , 1.1424486032366254, spb , 0.05783667103264273
-cycle , 3 , cPeriod , 11 , count , 3 , procDur , 9118739.0, procTime , 1.4285714E7, lI , 1.5666326232168724, spb , 0.19496716595454672
-cycle , 4 , cPeriod , 10 , count , 0 , procDur , 9302185.0, procTime , 1.6666666E7, lI , 1.7916936719706176, spb , 0.25326375982115285
-cycle , 4 , cPeriod , 10 , count , 1 , procDur , 8236398.0, procTime , 1.6666666E7, lI , 2.0235382020150072, spb , 0.3061114077726587
-cycle , 3 , cPeriod , 11 , count , 4 , procDur , 8746703.0, procTime , 1.4285714E7, lI , 1.6332684441211733, spb , 0.21305757127625113
-cycle , 3 , cPeriod , 11 , count , 5 , procDur , 8292281.0, procTime , 1.4285714E7, lI , 1.7227725399078975, spb , 0.23622794071912215
-cycle , 4 , cPeriod , 10 , count , 2 , procDur , 8867693.0, procTime , 1.6666666E7, lI , 1.879481619402025, spb , 0.2740380828397712
-cycle , 4 , cPeriod , 10 , count , 3 , procDur , 7597566.0, procTime , 1.6666666E7, lI , 2.1936849248825214, spb , 0.34117425076323715
-cycle , 3 , cPeriod , 11 , count , 6 , procDur , 8062995.0, procTime , 1.4285714E7, lI , 1.7717627258853565, spb , 0.24840556081379364
-cycle , 3 , cPeriod , 12 , count , 0 , procDur , 8860643.0, procTime , 1.0E7, lI , 1.1285862662562975, spb , 0.05253476104531386
-cycle , 4 , cPeriod , 10 , count , 4 , procDur , 9300156.0, procTime , 1.6666666E7, lI , 1.7920845628826012, spb , 0.25335849881204403
-cycle , 4 , cPeriod , 10 , count , 5 , procDur , 1.0049239E7, procTime , 1.6666666E7, lI , 1.6585003103220055, spb , 0.2197155571163525
-cycle , 3 , cPeriod , 12 , count , 1 , procDur , 1.0511623E7, procTime , 1.0E7, lI , 0.9513278777216421, spb , -0.021669776496934797
-cycle , 3 , cPeriod , 12 , count , 2 , procDur , 7696150.0, procTime , 1.0E7, lI , 1.2993509741883928, spb , 0.11372647637338237
-cycle , 4 , cPeriod , 11 , count , 0 , procDur , 7967085.0, procTime , 1.4285714E7, lI , 1.7930917016700587, spb , 0.2536025006669786
-cycle , 3 , cPeriod , 12 , count , 3 , procDur , 8704479.0, procTime , 1.0E7, lI , 1.1488338360055783, spb , 0.060257218136135264
-cycle , 4 , cPeriod , 11 , count , 1 , procDur , 1.0406357E7, procTime , 1.4285714E7, lI , 1.3727872299595334, spb , 0.1376032305979408
-cycle , 3 , cPeriod , 12 , count , 4 , procDur , 8584375.0, procTime , 1.0E7, lI , 1.1649071714597743, spb , 0.06629131889934405
-cycle , 4 , cPeriod , 11 , count , 2 , procDur , 7041576.0, procTime , 1.4285714E7, lI , 2.028766571574318, spb , 0.3072320802964642
-cycle , 3 , cPeriod , 12 , count , 5 , procDur , 1.424683E7, procTime , 1.0E7, lI , 0.7019105302723483, spb , -0.15371824212280738
-cycle , 4 , cPeriod , 11 , count , 3 , procDur , 1.4188694E7, procTime , 1.4285714E7, lI , 1.0068378386340562, spb , 0.002959528689175459
-cycle , 3 , cPeriod , 12 , count , 6 , procDur , 8144240.0, procTime , 1.0E7, lI , 1.2278616543716787, spb , 0.08914943673375664
-cycle , 4 , cPeriod , 11 , count , 4 , procDur , 8131602.0, procTime , 1.4285714E7, lI , 1.7568142169279806, spb , 0.24472583728980024
-cycle , 3 , cPeriod , 12 , count , 7 , procDur , 8891806.0, procTime , 1.0E7, lI , 1.1246309242464354, spb , 0.051010021237171285
-cycle , 4 , cPeriod , 11 , count , 5 , procDur , 9319553.0, procTime , 1.4285714E7, lI , 1.5328754501422976, spb , 0.18550686880519843
-cycle , 3 , cPeriod , 12 , count , 8 , procDur , 9661604.0, procTime , 1.0E7, lI , 1.0350248261054789, spb , 0.014950766905312373
-cycle , 4 , cPeriod , 11 , count , 6 , procDur , 9705721.0, procTime , 1.4285714E7, lI , 1.4718859114124545, spb , 0.1678741483409844
-cycle , 3 , cPeriod , 12 , count , 9 , procDur , 9548682.0, procTime , 1.0E7, lI , 1.0472649523777209, spb , 0.020056569738702755
-cycle , 4 , cPeriod , 12 , count , 0 , procDur , 1.0448892E7, procTime , 1.0E7, lI , 0.957039272680778, spb , -0.019070240322846148
-cycle , 4 , cPeriod , 12 , count , 1 , procDur , 1.07556E7, procTime , 1.0E7, lI , 0.9297482241808919, spb , -0.03163464247065804
-cycle , 4 , cPeriod , 12 , count , 2 , procDur , 1.0813179E7, procTime , 1.0E7, lI , 0.924797416190003, spb , -0.03395339230588998
-cycle , 4 , cPeriod , 12 , count , 3 , procDur , 1.7051736E7, procTime , 1.0E7, lI , 0.5864505526006267, spb , -0.23176860015203748
-cycle , 4 , cPeriod , 12 , count , 4 , procDur , 1.2005477E7, procTime , 1.0E7, lI , 0.8329531596287261, spb , -0.0793794200658839
-cycle , 4 , cPeriod , 12 , count , 5 , procDur , 8669753.0, procTime , 1.0E7, lI , 1.1534353977558531, spb , 0.06199327533406419
-cycle , 4 , cPeriod , 12 , count , 6 , procDur , 1.4842522E7, procTime , 1.0E7, lI , 0.6737399479684113, spb , -0.171507701321965
-cycle , 4 , cPeriod , 12 , count , 7 , procDur , 8084576.0, procTime , 1.0E7, lI , 1.2369232474281893, spb , 0.0923427519714238
-cycle , 4 , cPeriod , 12 , count , 8 , procDur , 1.1855921E7, procTime , 1.0E7, lI , 0.8434604110469359, spb , -0.07393529679429672
-cycle , 4 , cPeriod , 12 , count , 9 , procDur , 8899636.0, procTime , 1.0E7, lI , 1.1236414612912258, spb , 0.05062775587466173
+0,-0.361848156684944
+0,0.08986015169326
+0,0.181105886423064
+0,0.074552328692448
+1,0.12276334086174
+0,0.119382970447942
+1,0.082294456476403
+0,0.059513647782663
+1,0.068249663857607
+0,0.061068990620114
+1,0.057759425926945
+0,0.051693371135431
+1,0.056244688940188
+0,0.018653712730994
+1,0.050485822404926
+0,-0.017391567981063
+1,-9.56E-04
+0,-0.077358793198889
+1,0.058606200576564
+0,-0.03781595640944
+1,0.045269328491738
+0,-0.083546215179079
+1,0.044938411964896
+0,-0.059189897779345
+1,-0.118769285597378
+0,-0.144099485546218
+2,0.05351398513216
+1,-0.102296656227416
+2,0.077919353655787
+0,-0.052766216371074
+1,-0.02355445274147
+2,0.049757904719618
+0,-0.062487261577496
+1,-0.059013099255117
+2,0.068746254997898
+0,-0.037471422428945
+1,-0.065924005768953
+2,0.011362261935712
+0,-0.102847729169221
+1,-0.109389560958822
+0,-0.017459483602516
+2,0.073274267288415
+1,-0.036427507628847
+2,0.094646191979979
+0,-0.040191301787014
+1,2.01E-04
+0,-0.016168652064198
+2,0.042141163147278
+1,-0.085209078635269
+0,-0.050255069566393
+2,0.085339146534176
+1,-0.063143145148321
+0,-0.067173110995762
+2,0.01325620475167
+1,-0.044908001895899
+0,-0.036856705195781
+2,-0.007394435799711
+1,-0.12444802044781
+0,-0.076249753829238
+2,-0.080234542678312
+3,0.017929131502835
+1,-0.066122014376081
+0,-0.082738235751756
+2,-0.117766115346876
+3,-0.041955363548637
+1,-0.110974118263757
+0,-0.109006773349814
+2,-0.047807359944443
+3,0.025994096503765
+1,-0.10609107136151
+0,-0.159018899018138
+2,-0.08374063509624
+3,0.03760532727761
+1,-0.053409419839542
+0,-0.165308954684756
+2,-0.076066383349066
+3,-0.006249868119069
+1,-0.145007118150905
+0,-0.188514717745825
+2,-0.155226620550092
+3,0.013577991179743
+1,-0.130736673424225
+0,-0.184576958015457
+2,-0.156455389035233
+3,-0.024160933774702
+1,-0.132868347108837
+0,-0.138068699647177
+2,-0.139858889411089
+3,0.05368978823312
+1,-0.128196016219015
+0,-0.102771632753238
+2,-0.018949054466607
+3,0.084565443725031
+1,-0.045948163911789
+0,-0.090163360278194
+3,0.126526753352131
+1,-0.03876300738003
+2,-0.121391112471308
+0,-0.136584426958739
+1,-0.113917903908538
+3,-0.134299328207751
+2,-0.108406340450206
+4,-0.029221922098434
+0,-0.163322877773076
+3,-0.131988751312747
+1,-0.225958870833126
+2,-0.191428849189327
+4,-0.086190707684403
+0,-0.264447708721234
+3,-0.176748819983473
+1,-0.191847693197996
+2,-0.15682000382833
+4,-0.070869621378555
+3,-0.096709121839439
+2,-0.083304836161561
+0,-0.177072090564699
+1,-0.155746209059844
+4,0.003013927692821
+0,-0.183619659424477
+3,-0.133074352018677
+2,-0.200357379256515
+1,-0.173779106898851
+4,-0.071856721798098
+3,-0.10634852570357
+0,-0.181276235157291
+2,-0.168553652223607
+1,-0.199032069732638
+4,-0.069672018121754
+3,-0.175712955546177
+0,-0.29354383682448
+2,-0.224011672384654
+1,-0.274578515669242
+4,-0.061855673028387
+3,-0.198301001525733
+0,-0.193586418711846
+1,-0.22970740011835
+2,-0.245878277486783
+4,-0.040290469591742
+3,-0.163789213582916
+0,-0.223791647873598
+2,-0.120898486621535
+1,-0.172077870223776
+4,-0.044893558405989
+3,-0.153978167464515
+1,-0.22537000581448
+2,-0.227937489378288
+0,-0.346037071124525
+4,-0.075745304732654
+3,-0.10399533056186
+2,-0.195202338311636
+1,-0.245131327045626
+0,-0.232585551496036
+3,-0.171666839685132
+4,-0.226867729915784
+2,-0.196799565505677
+1,-0.229484437777101
+0,-0.260799350036728
+3,-0.157307241518348
+4,-0.178307360664194
+2,-0.162436174863617
+1,-0.228887978100598
+0,-0.232915840012726
+2,-0.109397855547798
+3,-0.216376797515897
+4,-0.139545090692024
+1,-0.247047275968298
+0,-0.229094102961891
+3,-0.121235458537941
+4,-0.086092935143371
+2,-0.155172927313937
+1,-0.237086249672699
+0,-0.179381228484444
+2,-0.120559871154742
+3,-0.164033106046106
+4,-0.133745657555408
+1,-0.228396821498296
+0,-0.238962644748471
+2,-0.20059486701725
+3,-0.160581375681202
+4,-0.125761950500713
+1,-0.154220212490575
+0,-0.186137139485379
+2,-0.139889703828476
+4,-0.136778233614151
+3,-0.369674213134533
+1,-0.267398473061272
+0,-0.175741856016084
+2,-0.227705707166894
+4,-0.199239893402562
+1,-0.208055025767873
+3,-0.287525228887858
+0,-0.215260267260709
+2,-0.209943149740468
+4,-0.20403669163778
+1,-0.252247308710609
+2,-0.226204560729481
+0,-0.246653873696053
+3,-0.26979119981472
+4,-0.221895031654449
+1,-0.184384247785818
+2,-0.239458517820083
+0,-0.199575673359586
+3,-0.236314896799283
+4,-0.127600152953655
+1,-0.180284616148914
+2,-0.188725373223915
+0,-0.23880673094712
+3,-0.230064097325778
+4,-0.207480394448029
+1,-0.200595505442922
+2,-0.193843555456089
+0,-0.229045118737095
+3,-0.208742138875981
+4,-0.146347933421591
+2,-0.230817549916508
+1,-0.25098285286542
+0,-0.215620279296449
+3,-0.204159000091697
+4,-0.152497504185481
+2,-0.198997588225284
+1,-0.167358909630983
+3,-0.190480994439413
+0,-0.222190233111288
+4,-0.188943238532007
+2,-0.244242938992801
+1,-0.203648661877149
+3,-0.150768356952471
+0,-0.122629060039039
+4,-0.150986965501005
+1,-0.193894223929039
+2,-0.247461497758217
+0,-0.18469857549929
+3,-0.218851876965287
+4,-0.280689087273289
+1,-0.179393816608224
+2,-0.210197610252158
+0,-0.192849271732243
+3,-0.236384418444771
+4,-0.197040422439892
+2,-0.227465663792191
+1,-0.240918679415855
+0,-0.188030134449206
+3,-0.196927811183481
+4,-0.18359414496831
+2,-0.224080901433233
+1,-0.161215651665196
+3,-0.183688501808262
+0,-0.280304131570869
+4,-0.209147787297643
+1,-0.203671334335733
+2,-0.270294222652246
+3,-0.272237989212064
+0,-0.186302088733118
+4,-0.197120562555315
+1,-0.248169335600179
+2,-0.180347237297185
+3,-0.22216796903418
+0,-0.208033340629524
+4,-0.204136543074844
+2,-0.207826968411527
+1,-0.208531498750282
+3,-0.205558318733329
+0,-0.172659241058724
+4,-0.197203815369446
+2,-0.120690209963977
+1,-0.17127249416742
+4,-0.165387025936905
+0,-0.148598995587904
+3,-0.334062995043786
+2,-0.201600870384209
+1,-0.14559644604796
+4,-0.157771174401731
+0,-0.139464998255068
+3,-0.219655195690235
+1,-0.085201515358206
+2,-0.167744933615643
+0,-0.082682358119955
+4,-0.171668774842234
+3,-0.176423888107055
+2,-0.127073880293237
+1,-0.133590360409379
+3,-0.140761173082127
+4,-0.164158572397993
+0,-0.169967484854041
+1,-0.180843994452059
+2,-0.234105666439795
+3,-0.288659675633409
+4,-0.262965182991735
+0,-0.209535564176164
+1,-0.145564870289046
+2,-0.183319003179148
+4,-0.196278500931958
+3,-0.223912491846247
+0,-0.186964992585778
+2,-0.126114225731839
+1,-0.127421044260372
+4,-0.217360235567448
+0,-0.094141719708234
+3,-0.211080478705052
+2,-0.237447356938486
+1,-0.224478963006133
+0,-0.121174743154053
+4,-0.227069145520295
+2,-0.208105092116418
+1,-0.168529292121852
+3,-0.435347671767082
+4,-0.137208331459542
+0,-0.151287046733461
+1,-0.07617952931323
+2,-0.17408422115523
+3,-0.158459698045374
+4,-0.159221678716096
+0,-0.110077343328003
+1,-0.101205109414249
+2,-0.175099371206735
+3,-0.171389576552103
+4,-0.165580632032656
+0,-0.11755275587802
+1,-0.160259064884394
+3,-0.184155086865076
+2,-0.195920293715988
+4,-0.235719840744443
+0,-0.064939302582579
+1,-0.143936134211112
+3,-0.148190424843747
+2,-0.100078036615242
+4,-0.198662641490907
+0,-0.020039213462375
+2,-0.163640502249743
+1,-0.207645876221669
+3,-0.219799554349119
+4,-0.213162330384769
+0,-0.021863090683875
+2,-0.10017967327106
+3,-0.116734582672593
+1,-0.021510847450812
+4,-0.146820691539299
+0,0.023998192288771
+1,0.095408595231156
+4,-0.105515541887637
+3,-0.177416222687706
+2,-0.168545262914829
+0,0.026218378706954
+2,-0.01706703490346
+1,-0.018501984052656
+4,-0.151411696723071
+3,-0.148410420965659
+0,0.005895426435532
+2,-0.103582103873102
+1,-0.061464090277498
+4,-0.229031403065751
+3,-0.180145733580031
+0,-0.049389883967756
+2,-0.227600114999126
+1,-0.104597514601697
+3,-0.224972147065252
+4,-0.277492108473098
+0,-0.226296669552376
+2,-0.146033667496579
+3,-0.200189991997146
+1,-0.058960401659621
+4,-0.245817557694504
+0,-0.085684654556085
+2,-0.167998206574089
+1,-0.020250166954681
+4,-0.195531959569592
+3,-0.292046047880998
+0,0.012332349980364
+2,-0.145684498792085
+1,-0.008487879348907
+4,-0.175791871971364
+3,-0.14512174827968
+0,0.051130599815258
+2,-0.097070697440456
+1,0.034082327100304
+3,-0.147062378612732
+4,-0.179741922915127
+0,0.069237149487623
+2,-0.188185401282064
+1,-0.099571881258542
+3,-0.152700743086417
+4,-0.171146975648634
+0,0.0606999666646
+2,-0.090658541039259
+1,0.027647323465829
+3,-0.265037774203386
+4,-0.292857254681118
+0,-0.019417241577007
+2,-0.086313515326418
+1,-0.001283855342312
+3,-0.135741351417253
+4,-0.189495510306453
+1,0.137197796132338
+0,-0.041452534710011
+3,-0.042365771677289
+2,-0.041467337911236
+4,-0.192708966562846
+2,0.097043904919254
+1,0.083960350103528
+0,0.086847753433789
+3,-0.104775276792302
+4,-0.175244993991221
+2,-0.041107813012618
+1,0.086842703723202
+0,0.057872564666921
+3,-0.130993434004826
+4,-0.202547166754832
+2,0.019803035350816
+1,0.114135290337041
+3,-0.091669693871123
+0,0.104093524010194
+4,-0.209487002288003
+1,0.071035348787864
+2,-0.051009780174213
+3,-0.149057641168675
+0,0.182529533641206
+4,-0.222407068751181
+3,-0.128508995315873
+0,0.194164418551298
+2,-0.094890720589138
+1,-0.017774414817821
+4,-0.180789101927737
+3,-0.076466147520818
+2,-0.007090207387826
+0,0.161854565537137
+1,0.178288138943841
+3,-0.10052874199713
+4,-0.176856376163494
+2,0.071409578241307
+0,0.166088152967284
+1,0.190142787280644
+3,-0.126427555654661
+4,-0.113455230721154
+2,0.096062402984365
+0,0.162487438934523
+1,0.125227325620852
+2,0.095734580213674
+3,-0.194104566111996
+4,-0.212014058868162
+1,0.197117498995615
+0,0.151231183097075
+2,0.017793264480054
+3,-0.156510359606005
+4,-0.146962662585918
+0,0.245991395538613
+1,0.141911097596913
+3,0.049234533123038
+2,0.079236144339783
+4,-0.147978388145039
+0,0.271496838252579
+1,0.19228851261091
+3,-5.02E-04
+2,0.040735046523932
+4,-0.167073716516687
+0,0.284375952679378
+1,0.280999905929839
+3,0.041645479018963
+2,0.062547467700699
+4,-0.141381113268692
+1,0.295120891909605
+0,0.244757808163466
+3,-0.17212117512332
+2,0.048461605745612
+4,-0.162091966622154
+1,0.297591782038816
+0,0.25091929139242
+3,-0.061586252849947
+4,-0.161039440653064
+2,0.023718156001407
+1,0.305792472200224
+0,0.229790406771115
+3,-0.014292705411744
+2,0.230765199437316
+4,-0.134865579272949
+1,0.282312566498811
+0,0.234239751499965
+2,0.294689356148096
+4,-0.030467347835017
+3,0.033568302319652
+1,0.186605880960197
+0,0.226400938854731
+3,0.043556379364818
+4,-0.094937642183208
+2,0.199021554213463
+1,0.165689144547397
+0,0.162154212791442
+3,0.010026008105971
+4,-0.108331688607907
+2,0.240555626725891
+0,0.161316332949196
+1,0.147938858122394
+3,0.012570248681754
+2,0.252608996514836
+4,-0.153929846730139
+1,0.238789878873761
+3,0.083001235306266
+2,0.180289980942034
+0,0.11687368940832
+4,-0.033360697784537
+1,0.241308395442471
+0,0.238927043616805
+4,0.040725821421119
+2,0.297517721828039
+3,0.025422620009011
+1,0.218987923178426
+4,0.040233988467778
+2,0.347094496148155
+0,0.120427830974348
+3,0.048700529787781
+1,0.112951713707087
+4,-0.034830358625415
+0,0.12203106666568
+2,0.234402629183785
+3,0.028478380444771
+1,0.130751739363269
+4,-0.10099220958037
+0,0.060202799313495
+2,0.219941649216358
+3,0.008240690006636
+1,0.056454411710451
+4,-0.013740081909078
+2,0.291022140897345
+0,0.112219394328817
+3,0.033154763844091
+1,0.120098248302861
+2,0.209366635729598
+0,0.150425119319695
+4,-0.05095915080259
+3,0.034368038356878
+1,0.151203785539155
+4,0.059948289436077
+0,0.170765588894353
+2,0.203227403859164
+3,0.052320476227142
+1,0.178403640434296
+4,0.005050478841965
+2,0.219427527219828
+0,-0.017746416329544
+3,0.212445857962244
+4,0.087278499741868
+1,0.175093214537088
+2,0.213267763535763
+0,-0.037762607399509
+3,0.236895838878422
+1,0.036166998936626
+4,0.080912321856332
+0,-0.037787887732431
+2,0.144860228025854
+3,0.174540524788008
+4,0.056329704602754
+1,-0.074776116650851
+0,0.001976927961241
+2,0.222280592178503
+3,0.185792860764913
+4,0.084203222726133
+1,-0.037392390539278
+2,0.17474121627099
+0,-0.00717671929272
+1,0.060631129159257
+4,0.03956906712564
+3,0.153377109677581
+0,0.073050942622869
+2,0.182661287426096
+1,0.062914159979417
+3,0.26867009864378
+4,0.130172039552334
+0,-0.039145685873126
+2,0.067215989417537
+3,0.314143524312374
+1,-0.071771726672637
+4,0.078229232757304
+0,0.017716054985078
+2,0.141047140709495
+1,0.068794693614778
+3,0.247821936543255
+4,0.075812339057719
+0,-0.006648664255526
+2,0.12202257111306
+4,0.101146216097451
+3,0.275685537264791
+1,-0.134411059764154
+0,-0.031741753295142
+2,0.014216267245483
+4,0.177667098848096
+3,0.267278230467663
+1,-0.015709355862871
+2,0.151009967264391
+1,0.028861096250041
+3,0.258101954022886
+4,0.157890956339399
+2,1.22E-04
+4,0.218774928826938
+3,0.074343222873195
+2,-0.051990654311306
+4,0.159436249940861
+3,0.245934917632151
+2,-0.026823976996667
+4,0.200496623945561
+3,0.233948583197564
+2,0.00222183504638
+4,0.271187665430687
+3,0.287792021472069
+2,0.015163210239286
+3,0.249412234074444
+4,0.278234341125581
+2,0.075136309113765
+3,0.300857267665492
+4,0.387730610176077
+2,0.040283351603123
+4,0.365433562516462
+3,0.194416380415771
+2,0.083348847572476
+3,0.256345914283599
+4,0.339712527604777
+2,0.106177951181299
+3,0.27873164314419
+4,0.463808463962397
+2,0.057836671032643
+3,0.194967165954547
+4,0.253263759821153
+4,0.306111407772659
+3,0.213057571276251
+3,0.236227940719122
+4,0.274038082839771
+4,0.341174250763237
+3,0.248405560813794
+3,0.052534761045314
+4,0.253358498812044
+4,0.219715557116352
+3,-0.021669776496935
+3,0.113726476373382
+4,0.253602500666979
+3,0.060257218136135
+4,0.137603230597941
+3,0.066291318899344
+4,0.307232080296464
+3,-0.153718242122807
+4,0.002959528689175
+3,0.089149436733757
+4,0.2447258372898
+3,0.051010021237171
+4,0.185506868805198
+3,0.014950766905312
+4,0.167874148340984
+3,0.020056569738703
+4,-0.019070240322846
+4,-0.031634642470658
+4,-0.03395339230589
+4,-0.231768600152037
+4,-0.079379420065884
+4,0.061993275334064
+4,-0.171507701321965
+4,0.092342751971424
+4,-0.073935296794297
+4,0.050627755874662
