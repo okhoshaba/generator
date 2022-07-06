@@ -5,12 +5,17 @@ import java.io.FileReader;
 
 public class CsvReader {
     public static void main(String[] args) {
+       String s = "";
+       int n = 0;
        String file = "data.txt";
        String line;
         try (BufferedReader br =
                      new BufferedReader(new FileReader(file))) {
             while((line = br.readLine()) != null){
-                System.out.println(line);
+//                System.out.println(line);
+                String[] arrOfStr = line.split(",");
+                for (String items : arrOfStr)
+                  System.out.println(items);
             }
         } catch (Exception e){
             System.out.println(e);
