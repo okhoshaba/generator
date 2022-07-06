@@ -6,9 +6,8 @@ import java.io.FileReader;
 public class AnaliseData {
     public static void main(String[] args) {
        int first;
-       double second = 0.0;
+       double second, sumSecond = 0.0;
        String s = "";
-       String str1 = "", str2 = "";
        int n = 0;
        String file = "data.txt";
        String line;
@@ -31,14 +30,19 @@ public class AnaliseData {
         try (BufferedReader br =
                      new BufferedReader(new FileReader(file))) {
             while((line = br.readLine()) != null){
+//              For diagnostics only
 //                System.out.println(line);
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[0]);
                   if (first == n) {
                     second = Double.parseDouble(arrOfStr[1]);
-                    System.out.println(" " + first + " == " + second);
+                    sumSecond += second;
+//              For diagnostics only
+//                    System.out.println(" " + first + " == " + second);
+//                    System.out.println(args[0] + " , " + sumSecond);
                   }
             }
+            System.out.println(args[0] + " , " + sumSecond);
         } catch (Exception e){
             System.out.println(e);
         }

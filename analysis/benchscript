@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+for count in {0..3}
+do
+	java AnaliseData $count 
+done
+
