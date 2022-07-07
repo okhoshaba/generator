@@ -60,7 +60,8 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         loadImpact = procTime / processDuration;
         Config.sizeOfPerformanceBottl += Math.log10(loadImpact); 
       // for diagnostic only
-        System.out.println(" " + cycle + " , " + countPeriod + " , " + countObject + " , " + processDuration + " , " + procTime + " , " + loadImpact + " , " + Math.log10(loadImpact));
+      //  System.out.println(" " + cycle + " , " + countPeriod + " , " + countObject + " , " + processDuration + " , " + procTime + " , " + loadImpact + " , " + Math.log10(loadImpact));
+        System.out.println(cycle + " , " + Math.log10(loadImpact));
       }
 
     } // end try
