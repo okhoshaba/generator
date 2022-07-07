@@ -60,7 +60,7 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         loadImpact = procTime / processDuration;
         Config.sizeOfPerformanceBottl += Math.log10(loadImpact); 
       // for diagnostic only
-        System.out.println("cycle , " + cycle + " , cPeriod , " + countPeriod + " , count , " + countObject + " , procDur , " + processDuration + ", procTime , " + procTime + ", lI , " + loadImpact + ", spb , " + Math.log10(loadImpact));
+        System.out.println(" " + cycle + " , " + countPeriod + " , " + countObject + " , " + processDuration + " , " + procTime + " , " + loadImpact + " , " + Math.log10(loadImpact));
       }
 
     } // end try
@@ -110,6 +110,7 @@ class Generator {
 //        System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
 //        System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
         System.out.println(" Command Line " + Config.commandLine);
+        System.out.println("cycle , cPeriod , count , procDur , procTime , lI , spb");
 
         Config.amplitude = new int [Config.trajectoryMassive];
         File text = new File("dots.txt");
