@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-for count in {0..9}
+for count in {0..4}
 do
 	java AnaliseData $count 
 done
