@@ -35,14 +35,15 @@ public class AnaliseData {
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[0]);
                   if (first == n) {
-                    second = Double.parseDouble(arrOfStr[1]);
+//                    second = Double.parseDouble(arrOfStr[1]);
+                    second = Double.parseDouble(arrOfStr[6]);
                     sumSecond += second;
 //              For diagnostics only
 //                    System.out.println(" " + first + " == " + second);
 //                    System.out.println(args[0] + " , " + sumSecond);
                   }
             }
-            System.out.println(args[0] + " , " + sumSecond);
+            System.out.println(args[0] + "," + sumSecond);
         } catch (Exception e){
             System.out.println(e);
         }
