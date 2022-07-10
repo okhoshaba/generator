@@ -2,15 +2,24 @@
 //
 import java.io.BufferedReader;
 import java.io.FileReader;
+import java.util.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.io.IOException;
 
 public class AnaliseData {
     public static void main(String[] args) {
-       int first;
+       Scanner scan;
        double second, sumSecond = 0.0;
+       double sumFromFile=0.0;
        String s = "";
-       int n = 0;
-       String file = "data.txt";
+       String inputFile = "data.txt";
+       String sumFile = "sum.txt";
        String line;
+       int first;
+       int n = 0;
 
        try {
            s = args[0];
@@ -28,14 +37,13 @@ public class AnaliseData {
 
 
         try (BufferedReader br =
-                     new BufferedReader(new FileReader(file))) {
+                     new BufferedReader(new FileReader(inputFile))) {
             while((line = br.readLine()) != null){
 //              For diagnostics only
 //                System.out.println(line);
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[0]);
                   if (first == n) {
-//                    second = Double.parseDouble(arrOfStr[1]);
                     second = Double.parseDouble(arrOfStr[6]);
                     sumSecond += second;
 //              For diagnostics only
@@ -46,6 +54,29 @@ public class AnaliseData {
             System.out.println(args[0] + "," + sumSecond);
         } catch (Exception e){
             System.out.println(e);
+        }
+
+        // Read from file 
+        File file = new File(sumFile);
+        try {
+          scan = new Scanner(file);
+          while(scan.hasNextDouble()) {
+            sumFromFile = scan.nextDouble() + sumSecond;
+//              For diagnostics only
+//            System.out.println( " " + sumFromFile );
+//            System.out.println( scan.nextDouble() );
+        }
+
+        } catch (FileNotFoundException e1) {
+          e1.printStackTrace();
+        }
+          
+        // Write to file 
+        try {
+		        Path fileName = Path.of(sumFile);
+		        Files.writeString(fileName, "" + sumFromFile);
+        } catch (IOException e) {
+          System.out.println("IOException : " + e);
         }
     }
 }
