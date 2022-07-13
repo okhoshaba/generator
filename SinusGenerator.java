@@ -86,11 +86,11 @@ class SinusGenerator {
     public static void main(String[] args)  throws InterruptedException, FileNotFoundException {
 	    int count = 0;
 
-        try (InputStream input = Generator.class.getClassLoader().getResourceAsStream("trajectory.properties")) {
+        try (InputStream input = Generator.class.getClassLoader().getResourceAsStream("trajectory_sinus.properties")) {
             Properties prop = new Properties();
 
             if (input == null) {
-                System.out.println("Sorry, unable to find trajectory.properties");
+                System.out.println("Sorry, unable to find trajectory_sinus.properties");
                 return;
             }
 
@@ -114,7 +114,7 @@ class SinusGenerator {
         System.out.println("cycle , cPeriod , count , procDur , procTime , lI , spb");
 
         Config.amplitude = new int [Config.trajectoryMassive];
-        File text = new File("dots.txt");
+        File text = new File("sinus.txt");
         Scanner scanner = new Scanner(text);
         while(scanner.hasNextInt()) 
           Config.amplitude[count++] = scanner.nextInt();

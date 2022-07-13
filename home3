@@ -1,3 +1,7 @@
+ Number of tacts (im units) = 1
+ Number of massive (im units) = 100
+ Command Line curl 192.168.1.108:9000 > /dev/null 2>&1
+cycle , cPeriod , count , procDur , procTime , lI , spb
 0,0,0,2.1523679E7,2.0E7,0.9292091746954598,-0.031886510774578325
 0,0,1,7729243.0,2.0E7,2.58757552324335,0.4128930343487163
 0,0,2,6463378.0,2.0E7,3.0943571612243628,0.49057044000223127

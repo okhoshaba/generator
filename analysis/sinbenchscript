@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+for count in {0..99}
+do
+	java SinusAnaliseData $count 
+done
+
