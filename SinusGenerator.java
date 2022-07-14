@@ -124,7 +124,7 @@ class SinusGenerator {
           Config.executionOrder = countCycles;
           Thread object = new Thread(new TestBenchmark(countCycles));
             object.start();
-            Thread.sleep(100);
+            Thread.sleep(60);
           } // end for
 
       }

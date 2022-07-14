@@ -10,10 +10,10 @@ class MyServer(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-type", "text/html".encode())
         self.end_headers()
-        self.wfile.write("Test World !".encode())
+        self.wfile.write("Test Agent !".encode())
 
 myServer = HTTPServer((hostName, hostPort), MyServer)
-print(time.asctime(), "Server Starts - %s:%s" % (hostName, hostPort))
+print(time.asctime(), "Test Agent Starts - %s:%s" % (hostName, hostPort))
 
 try:
     myServer.serve_forever()
@@ -21,5 +21,5 @@ except KeyboardInterrupt:
     pass
 
 myServer.server_close()
-print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
+print(time.asctime(), "Test Agent Stops - %s:%s" % (hostName, hostPort))
 

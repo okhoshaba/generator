@@ -15,8 +15,8 @@ xlabel('Time (in sec.)');
 ylabel('Responce');
 subplot(211);
 plot(t,s,'b-');      %Отрисовка исходной функции
-#xlabel('Samples');
-#ylabel('Frequency');
+%xlabel('Samples');
+%ylabel('Frequency');
 subplot(212);
 plot(1:N,abs(F(1:N)),'r-')
 
