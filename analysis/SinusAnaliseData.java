@@ -16,7 +16,7 @@ public class SinusAnaliseData {
        double sumFromFile=0.0;
        String s = "";
        String inputFile = "data.txt";
-       String sumFile = "sum.txt";
+//       String sumFile = "sum.txt";
        String line;
        int first;
        int n = 0;
@@ -56,6 +56,7 @@ public class SinusAnaliseData {
             System.out.println(e);
         }
 
+/*        
         // Read from file 
         File file = new File(sumFile);
         try {
@@ -78,5 +79,6 @@ public class SinusAnaliseData {
         } catch (IOException e) {
           System.out.println("IOException : " + e);
         }
+*/        
     }
 }
