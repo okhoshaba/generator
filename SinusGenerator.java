@@ -16,7 +16,7 @@ import java.util.Scanner;
 import java.util.Properties;
 import java.lang.Math;
 
-class Config {
+class SinusConfig {
 	static int executionOrder = 0;
 	static int numberOfTacts = 0;
   static int countAmplitude = 0;
@@ -29,10 +29,10 @@ class Config {
   static int [] amplitude;
 }
 
-class TestBenchmark implements Runnable {
+class SinusTestBenchmark implements Runnable {
 private int cycle;
 
-public TestBenchmark(int cycle){
+public SinusTestBenchmark(int cycle){
   this.cycle = cycle;
 }
 
@@ -50,15 +50,15 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
 //        start = System.currentTimeMillis();
         start = System.nanoTime();
 	      runtime = Runtime.getRuntime();
-    	  process = runtime.exec(Config.commandLine);
+    	  process = runtime.exec(SinusConfig.commandLine);
 	      process.waitFor();
         stop = System.nanoTime();
         processDuration = stop - start;
         procTime = (double)(100000000 / countAmplitude);
-        Config.sumProcessingTime += procTime;
-        Config.sumDurationTime += processDuration;
+        SinusConfig.sumProcessingTime += procTime;
+        SinusConfig.sumDurationTime += processDuration;
         loadImpact = procTime / processDuration;
-        Config.sizeOfPerformanceBottl += Math.log10(loadImpact); 
+        SinusConfig.sizeOfPerformanceBottl += Math.log10(loadImpact); 
       // for diagnostic only
         System.out.println(cycle + "," + countPeriod + "," + countObject + "," + processDuration + "," + procTime + "," + loadImpact + "," + Math.log10(loadImpact));
 //        System.out.println(cycle + " , " + Math.log10(loadImpact));
@@ -72,8 +72,8 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
 
 public void run() {
     try   {     // Displaying the thread that is running
-      for (int countPeriod = 0; countPeriod < Config.trajectoryMassive; countPeriod++) {
-        execAmplitude(cycle, countPeriod, Config.amplitude[countPeriod]);
+      for (int countPeriod = 0; countPeriod < SinusConfig.trajectoryMassive; countPeriod++) {
+        execAmplitude(cycle, countPeriod, SinusConfig.amplitude[countPeriod]);
       }
     } // end try
       catch (Exception e)   {     // Throwing an exception
@@ -97,32 +97,32 @@ class SinusGenerator {
             //load a properties file from class path, inside static method
             prop.load(input);
 
-            Config.numberOfTacts = Integer.valueOf(prop.getProperty("trajectory.numberOfTacts"));
-            Config.trajectoryMassive = Integer.valueOf(prop.getProperty("trajectory.trajectoryMassive"));
-            Config.commandLine = prop.getProperty("trajectory.commandLine");
+            SinusConfig.numberOfTacts = Integer.valueOf(prop.getProperty("trajectory.numberOfTacts"));
+            SinusConfig.trajectoryMassive = Integer.valueOf(prop.getProperty("trajectory.trajectoryMassive"));
+            SinusConfig.commandLine = prop.getProperty("trajectory.commandLine");
 //            Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
 
         } catch (IOException ex) {
             ex.printStackTrace();
         }
 
-        System.out.println(" Number of tacts (im units) = " + Config.numberOfTacts);
-        System.out.println(" Number of massive (im units) = " + Config.trajectoryMassive);
-//        System.out.println(" Signal_Sampling_Rate (im Hz) = " + Config.signalOfSamplingRate);
+        System.out.println(" Number of tacts (im units) = " + SinusConfig.numberOfTacts);
+        System.out.println(" Number of massive (im units) = " + SinusConfig.trajectoryMassive);
+//        System.out.println(" Signal_Sampling_Rate (im Hz) = " + SinusConfig.signalOfSamplingRate);
 //        System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
-        System.out.println(" Command Line " + Config.commandLine);
+        System.out.println(" Command Line " + SinusConfig.commandLine);
         System.out.println("cycle , cPeriod , count , procDur , procTime , lI , spb");
 
-        Config.amplitude = new int [Config.trajectoryMassive];
+        SinusConfig.amplitude = new int [SinusConfig.trajectoryMassive];
         File text = new File("sinus.txt");
         Scanner scanner = new Scanner(text);
         while(scanner.hasNextInt()) 
-          Config.amplitude[count++] = scanner.nextInt();
+          SinusConfig.amplitude[count++] = scanner.nextInt();
         scanner.close();
 
-        for (int countCycles = 0; countCycles < Config.numberOfTacts; countCycles++) {
-          Config.executionOrder = countCycles;
-          Thread object = new Thread(new TestBenchmark(countCycles));
+        for (int countCycles = 0; countCycles < SinusConfig.numberOfTacts; countCycles++) {
+          SinusConfig.executionOrder = countCycles;
+          Thread object = new Thread(new SinusTestBenchmark(countCycles));
             object.start();
             Thread.sleep(60);
           } // end for

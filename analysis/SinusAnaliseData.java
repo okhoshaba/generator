@@ -44,7 +44,10 @@ public class SinusAnaliseData {
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[1]);
                   if (first == n) {
-                    second = Double.parseDouble(arrOfStr[6]);
+//  For Size of PB marks                    
+//                    second = Double.parseDouble(arrOfStr[6]);
+//  For RT marks                    
+                    second = Double.parseDouble(arrOfStr[5]);
                     sumSecond += second;
 //              For diagnostics only
 //                    System.out.println(" " + first + " == " + second);
@@ -55,30 +58,5 @@ public class SinusAnaliseData {
         } catch (Exception e){
             System.out.println(e);
         }
-
-/*        
-        // Read from file 
-        File file = new File(sumFile);
-        try {
-          scan = new Scanner(file);
-          while(scan.hasNextDouble()) {
-            sumFromFile = scan.nextDouble() + sumSecond;
-//              For diagnostics only
-//            System.out.println( " " + sumFromFile );
-//            System.out.println( scan.nextDouble() );
-        }
-
-        } catch (FileNotFoundException e1) {
-          e1.printStackTrace();
-        }
-          
-        // Write to file 
-        try {
-		        Path fileName = Path.of(sumFile);
-		        Files.writeString(fileName, "" + sumFromFile);
-        } catch (IOException e) {
-          System.out.println("IOException : " + e);
-        }
-*/        
     }
 }

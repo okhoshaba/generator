@@ -44,7 +44,10 @@ public class AnaliseData {
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[0]);
                   if (first == n) {
-                    second = Double.parseDouble(arrOfStr[6]);
+//  For Size of PB marks                    
+//                    second = Double.parseDouble(arrOfStr[6]);
+//  For RT marks                    
+                    second = Double.parseDouble(arrOfStr[5]);
                     sumSecond += second;
 //              For diagnostics only
 //                    System.out.println(" " + first + " == " + second);
