@@ -47,7 +47,7 @@ public class SinusAnaliseData {
 //  For Size of PB marks                    
 //                    second = Double.parseDouble(arrOfStr[6]);
 //  For RT marks                    
-                    second = Double.parseDouble(arrOfStr[5]);
+                    second = Double.parseDouble(arrOfStr[6]);
                     sumSecond += second;
 //              For diagnostics only
 //                    System.out.println(" " + first + " == " + second);
