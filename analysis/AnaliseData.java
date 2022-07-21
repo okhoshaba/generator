@@ -45,9 +45,9 @@ public class AnaliseData {
                   first = Integer.parseInt(arrOfStr[0]);
                   if (first == n) {
 //  For Size of PB marks                    
-//                    second = Double.parseDouble(arrOfStr[6]);
+                    second = Double.parseDouble(arrOfStr[6]);
 //  For RT marks                    
-                    second = Double.parseDouble(arrOfStr[5]);
+//                    second = Double.parseDouble(arrOfStr[5]);
                     sumSecond += second;
 //              For diagnostics only
 //                    System.out.println(" " + first + " == " + second);
