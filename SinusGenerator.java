@@ -55,8 +55,8 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
         stop = System.nanoTime();
         processDuration = stop - start;
         procTime = (double)(100000000 / countAmplitude);
-        SinusConfig.sumProcessingTime += procTime;
-        SinusConfig.sumDurationTime += processDuration;
+//        SinusConfig.sumProcessingTime += procTime;
+//        SinusConfig.sumDurationTime += processDuration;
 //        loadImpact = procTime / processDuration;
         loadImpact = processDuration / procTime;
         SinusConfig.sizeOfPerformanceBottl += Math.log10(loadImpact); 

@@ -1,3 +1,7 @@
+ Number of tacts (im units) = 1
+ Number of massive (im units) = 100
+ Command Line ping 192.168.1.108 > /dev/null 2>&1
+cycle , cPeriod , count , procDur , procTime , lI , spb
 0,0,0,1.7557185E7,5000000.0,3.511437,0.5454848809830328
 0,0,1,2831872.0,5000000.0,0.5663744,-0.2468963848910225
 0,0,2,2548760.0,5000000.0,0.509752,-0.29264106160227976
