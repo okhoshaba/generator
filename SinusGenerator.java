@@ -22,10 +22,12 @@ class SinusConfig {
   static int countAmplitude = 0;
   static int trajectoryMassive = 0;
 	static int signalOfSamplingRate = 0;
+	static int coefLoadImpact = 1;
   static double sumProcessingTime = 0.0;
   static double sumDurationTime = 0.0;
   static double sizeOfPerformanceBottl = 0.0;
 	static String commandLine;
+	static String trajectoryFile;
   static int [] amplitude;
 }
 
@@ -58,10 +60,10 @@ public void execAmplitude(int cycle, int countPeriod, int countAmplitude) {
 //        SinusConfig.sumProcessingTime += procTime;
 //        SinusConfig.sumDurationTime += processDuration;
 //        loadImpact = procTime / processDuration;
-        loadImpact = processDuration / procTime;
-        SinusConfig.sizeOfPerformanceBottl += Math.log10(loadImpact); 
+        loadImpact = Math.log10(processDuration / procTime) * SinusConfig.coefLoadImpact; 
+//        SinusConfig.sizeOfPerformanceBottl += Math.log10(loadImpact); 
       // for diagnostic only
-        System.out.println(cycle + "," + countPeriod + "," + countObject + "," + processDuration + "," + procTime + "," + loadImpact + "," + Math.log10(loadImpact));
+        System.out.println(cycle + "," + countPeriod + "," + countObject + "," + processDuration + "," + procTime + "," + loadImpact);
 //        System.out.println(cycle + " , " + Math.log10(loadImpact));
       }
 
@@ -100,7 +102,9 @@ class SinusGenerator {
 
             SinusConfig.numberOfTacts = Integer.valueOf(prop.getProperty("trajectory.numberOfTacts"));
             SinusConfig.trajectoryMassive = Integer.valueOf(prop.getProperty("trajectory.trajectoryMassive"));
+            SinusConfig.coefLoadImpact = Integer.valueOf(prop.getProperty("trajectory.coefLoadImpact"));
             SinusConfig.commandLine = prop.getProperty("trajectory.commandLine");
+            SinusConfig.trajectoryFile = prop.getProperty("trajectory.trajectoryFile");
 //            Config.periodOfTime = 1000 / Config.signalOfSamplingRate;
 
         } catch (IOException ex) {
@@ -111,11 +115,14 @@ class SinusGenerator {
         System.out.println(" Number of massive (im units) = " + SinusConfig.trajectoryMassive);
 //        System.out.println(" Signal_Sampling_Rate (im Hz) = " + SinusConfig.signalOfSamplingRate);
 //        System.out.println(" Period Time (im ms) = " + Config.periodOfTime);
-        System.out.println(" Command Line " + SinusConfig.commandLine);
-        System.out.println("cycle , cPeriod , count , procDur , procTime , lI , spb");
+        System.out.println(" Trajectory File: " + SinusConfig.trajectoryFile);
+        System.out.println(" Coef Load Impact: " + SinusConfig.coefLoadImpact);
+        System.out.println(" Command Line: " + SinusConfig.commandLine);
+        System.out.println("cycle , cPeriod , count , procDur , procTime , spb");
 
         SinusConfig.amplitude = new int [SinusConfig.trajectoryMassive];
-        File text = new File("sinus.txt");
+//        File text = new File("sinus.txt");
+        File text = new File(SinusConfig.trajectoryFile);
         Scanner scanner = new Scanner(text);
         while(scanner.hasNextInt()) 
           SinusConfig.amplitude[count++] = scanner.nextInt();
