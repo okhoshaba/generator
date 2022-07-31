@@ -132,7 +132,7 @@ class SinusGenerator {
           SinusConfig.executionOrder = countCycles;
           Thread object = new Thread(new SinusTestBenchmark(countCycles));
             object.start();
-            Thread.sleep(60);
+            Thread.sleep(100);
           } // end for
 
       }
