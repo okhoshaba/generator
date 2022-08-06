@@ -30,11 +30,11 @@ t=linspace(0,T,N);    %Задание вектора времени
 s=5+4*sin(w*t./T);    %Вычисление дискретной функции
 
 F=fft(s)/N;        %Вычисление преобразования Фурье
-xlabel('Samples');
-ylabel('Responce');
 plot(1:N,abs(F(1:N)),'r-')
 
 
+xlabel('Samples');
+ylabel('Responce');
 
 ===================================
 !!! new
@@ -53,11 +53,11 @@ xlabel('Time (in sec.)');
 ylabel('Responce');
 subplot(211);
 plot(t,s,'b-');      %Отрисовка исходной функции
-%xlabel('Samples');
-%ylabel('Frequency');
 subplot(212);
 plot(1:N,abs(F(1:N)),'r-')
 ===================================
+%xlabel('Samples');
+%ylabel('Frequency');
 ===================================
 
 +++  Для задания массива в программе
