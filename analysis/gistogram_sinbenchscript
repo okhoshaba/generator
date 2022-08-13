@@ -1,0 +1,11 @@
+#!/usr/bin/bash
+
+for count in {0..9}
+do
+  echo "0,"
+java GistogramAnaliseData $count 
+#	java SinusAnaliseData $count 
+  echo ","
+  echo ","
+done
+

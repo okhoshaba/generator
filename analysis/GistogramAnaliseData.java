@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.io.IOException;
 
-public class SinusAnaliseData {
+public class GistogramAnaliseData {
     public static void main(String[] args) {
        Scanner scan;
        double second, sumSecond = 0.0;
@@ -18,7 +18,7 @@ public class SinusAnaliseData {
        String inputFile = "data.txt";
 //       String sumFile = "sum.txt";
        String line;
-       int first;
+       int first, findFirst;
        int n = 0;
 
        try {
@@ -36,6 +36,7 @@ public class SinusAnaliseData {
        }
 
 
+       for (int count = 0; count < 10; count++)
         try (BufferedReader br =
                      new BufferedReader(new FileReader(inputFile))) {
             while((line = br.readLine()) != null){
@@ -43,11 +44,14 @@ public class SinusAnaliseData {
 //                System.out.println(line);
                 String[] arrOfStr = line.split(",");
                   first = Integer.parseInt(arrOfStr[1]);
-                  if (first == n) {
+//                  findFirst = n * 10 + count;
+                  findFirst = count * 10 + n;
+                  if (first == findFirst) {
 //  For Size of PB marks                    
 //                    second = Double.parseDouble(arrOfStr[3]);
 //  For RT marks                    
                     second = Double.parseDouble(arrOfStr[5]);
+                    System.out.println(" " + first + " , " + second);
 //                    System.out.println(" " + first + "," + second);
                     sumSecond += second;
 //              For diagnostics only
@@ -55,7 +59,8 @@ public class SinusAnaliseData {
 //                    System.out.println(args[0] + " , " + sumSecond);
                   }
             }
-            System.out.println(args[0] + "," + sumSecond);
+//              For diagnostics only
+//            System.out.println(args[0] + "," + sumSecond);
         } catch (Exception e){
             System.out.println(e);
         }
